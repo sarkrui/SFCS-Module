@@ -1,0 +1,5190 @@
+{
+  "schematics": {
+    "340b2994746c4043bbf9027df7f991bd": {
+      "name": "main",
+      "sheets": [
+        {
+          "name": "main",
+          "id": 1,
+          "uuid": "60a7848e9b404112a4660a3138c28d44"
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "ee5fd5e1742b4e0eb1c01f364e9f9500": "main"
+  },
+  "panels": {},
+  "symbols": {
+    "a030e1daee264519bf4b51760b130017": {
+      "source": "8016b39969ae47c39b0b1b0f708bfacd",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "06033D334KAT2A",
+      "version": "1658104547",
+      "type": 2
+    },
+    "49ff5bdcf40f4155a302d74cadf9bf8d": {
+      "source": "9385ae156f594923b686bbe5c162b826",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "06036D102KAT2A",
+      "version": "1658104536",
+      "type": 2
+    },
+    "a5ac11b528ee49a5a6480d1f87262464": {
+      "source": "e9ea6659d1b34896971a8dc93bd62473",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "0603WAD3300T5E",
+      "version": "1642735397",
+      "type": 2
+    },
+    "00556cc6acd746daa259a802c5f55d60": {
+      "source": "41023f036d98440da6872f19b7bd6c8a|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "10Ω (100) ±5%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAJ0100T5E",
+      "version": "1642735124",
+      "type": 2
+    },
+    "3ff9eecf0b5c452a85de351b066a32cf": {
+      "source": "f6a4ec92b5134d71a70cbcd11e5643b9",
+      "desc": "8.2KΩ (822) ±5%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "0603WAJ0822T5E",
+      "version": "1652873416",
+      "type": 2
+    },
+    "08f9febb4251482db239cd27cc681a44": {
+      "source": "2ec4e0fb2e3e46359c8c2f30727839fe",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "10UF",
+      "version": "1642737608",
+      "type": 2
+    },
+    "1511a5d07f7b422887e7ad8daae67e13": {
+      "source": "beb8841b5036e866483f4411c0904b0a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "57T_VISHAY_SS34-E3-57T_VISHAY_SS34-E3-57T_0_0",
+      "version": "",
+      "type": 2
+    },
+    "deda476ab4b344159d1a7510c5929391": {
+      "source": "f3a17433f8254b7e817ed19414dfbb71",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Color Ring Inductors/Through Hole Inductors\"]",
+      "title": "5900-104-RC",
+      "version": "1651502704",
+      "type": 2
+    },
+    "091ccedc937346e3baa2ac81810292b7": {
+      "source": "dd43d51e35fc4f9d8936a8667396f589",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AC0603DR-071K1L",
+      "version": "1648886887",
+      "type": 2
+    },
+    "f505d229dee440aa88716b1194a78fed": {
+      "source": "513d5dedc55041299629626d88a556a1",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AC0603FR-074K12L",
+      "version": "1642734136",
+      "type": 2
+    },
+    "6069df2f28f24f93ad8ff6ea0373ea9d": {
+      "source": "4db8e65803984806b898d05e80c52492",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AD5932YRUZ",
+      "version": "1648889493",
+      "type": 2
+    },
+    "18d1a5753a584a48bba96a798bf5e635": {
+      "source": "27414b49d9444769b0ead4464036bf58|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Operational Amplifier/Comparator\",\"Operational Amplifier\"]",
+      "title": "AD8051ARTZ-REEL7",
+      "version": "1641817419",
+      "type": 2
+    },
+    "1fe9508c0d1e4006b5ed3ada58dcaf11": {
+      "source": "40426322e7d83049a27ff925f8e30985|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AD8051ARZ-REEL7",
+      "version": "",
+      "type": 2
+    },
+    "44d549d62e7a4947bab98f7dcee7d858": {
+      "source": "5a5e17c770a14529ac70cd427f5fec9f|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Operational Amplifier/Comparator\",\"Operational Amplifier\"]",
+      "title": "AD8051ARZ-REEL7_1",
+      "version": "1641820302",
+      "type": 2
+    },
+    "e51a16f5fb5a442085649c7582c59514": {
+      "source": "3f04fc88666593285204099254329f99|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AD8051ARZ-REEL7_AD8051ARZ-REEL7_",
+      "version": "",
+      "type": 2
+    },
+    "25dcfa2ab39a4a0ba1b403cedfb3a521": {
+      "source": "fecbdfe1c73b37ac7f53276927831123|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AD9833_AD9833BRMZ_",
+      "version": "",
+      "type": 2
+    },
+    "b6b38afbe4034f129d91e0dbe0736c27": {
+      "source": "c343afd01f67acda8aea8c534723f19c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AD9833_ASE-25.000MHZ-LC-T_",
+      "version": "",
+      "type": 2
+    },
+    "294fd440bd824e539948d67ebade0fd5": {
+      "source": "c0cb7161d09ef9920b58115241b8cd7e|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AD9833BRMZ",
+      "version": "",
+      "type": 2
+    },
+    "952bfaa131a34b85b8f5cb021e348e15": {
+      "source": "cf2d51f62def4c1f90fcf5caaf18e9a4|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"ADC/DAC/Data Conversion\",\"Direct Digital Synthesis (DDS)\"]",
+      "title": "AD9833BRMZ_1",
+      "version": "1641818744",
+      "type": 2
+    },
+    "14806617624d464ebd0f602110abcca4": {
+      "source": "bf6770c0324d43f7b80e7f6d8000dadf",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "ADA4891-2ARMZ",
+      "version": "1648889371",
+      "type": 2
+    },
+    "45d717df03734c809e39901d0c3d04ec": {
+      "source": "1efcd3cf8aec4af69ac19a058a7ff36c",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AECR0603F10R0K9",
+      "version": "1642737432",
+      "type": 2
+    },
+    "80ce69fbfe3a401ea0cbc046dd89d079": {
+      "source": "6f6bb4a392ea4867b810c4bff06f6b3c",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "AF0603FR-071K5L",
+      "version": "1643076632",
+      "type": 2
+    },
+    "e999bca5b6494da0a40a9c53dc4a5a4f": {
+      "source": "7d6136b0a50c9cc26f87bc39e6dcac3d|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "ASE-25.000MHZ-LC-T",
+      "version": "",
+      "type": 2
+    },
+    "adcdc9b3ce39436ba8edbd40b5a5a238": {
+      "source": "a75993a2b60043ae81a868a4b6116042",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Through Hole Inductors\"]",
+      "title": "B82144A2107J000",
+      "version": "1651323604",
+      "type": 2
+    },
+    "d25d0f5a6055405c92d2c445f6357413": {
+      "source": "19e2e608453f490680a4d724843d4672",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Bead/Filter/EMI Optimization\",\"Ferrite Beads\"]",
+      "title": "BKH1005LM182-T",
+      "version": "1654780205",
+      "type": 2
+    },
+    "3b61f408e2b64b1f998c996a41722de3": {
+      "source": "e186300b516c49bd8c638f862f19cec2",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "C0603C102K1RAC3083",
+      "version": "1648886832",
+      "type": 2
+    },
+    "0acc27d5dabd4b8bb85eaa96750ce4b8": {
+      "source": "f4658a9472544d5090f8cb408f06245f",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "C0603C200J5GACAUTO",
+      "version": "1641819423",
+      "type": 2
+    },
+    "29e02c7630ca475391514a41b1f039f6": {
+      "source": "d6314e66a5894c80a6743d19f184dee7|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Tantalum Capacitors\"]",
+      "title": "CA45A-B-6.3V-100UF-K",
+      "version": "1641819841",
+      "type": 2
+    },
+    "c80167b85c334017b76e59bb2903df17": {
+      "source": "db5ce5cb1b12edacae4584e881e1451f|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CAP",
+      "version": "",
+      "type": 2
+    },
+    "08ca91ae83dd4e5f8820a320036cc6a8": {
+      "source": "8659956f782203bd048a25c1fc22859c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CAP_POL",
+      "version": "",
+      "type": 2
+    },
+    "19ff8b022b894f2dad221d1db0af45a0": {
+      "source": "e44dd9b4c06243b38b297becfd330430|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Resistor Networks & Arrays\"]",
+      "title": "CAY10-101J4LF",
+      "version": "1642580525",
+      "type": 2
+    },
+    "2967f015b719409f818cad7a6ae1133e": {
+      "source": "b110a5cc7c814223a8eb122052c03411|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CGA3E2X7R1H103KT0Y0N",
+      "version": "1641817587",
+      "type": 2
+    },
+    "ab570e5a6ce144ee896e35331d7495e3": {
+      "source": "9364eab89e184f848afbea3e83aa1cf7",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CL10A104KA8NNNC",
+      "version": "1648888545",
+      "type": 2
+    },
+    "e415eb6e0d46479cbc09fe6c84bd6835": {
+      "source": "232ee6f359d94fdea40a82d904b5e557|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "100nF (104) ±10% 25V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL10B104KA8NNNC",
+      "version": "1641818545",
+      "type": 2
+    },
+    "aee6a4ceec4b4f99a827004c05ca676c": {
+      "source": "34ba48138a874a6a94159f32cd1f2b20|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Inductors (SMD)\"]",
+      "title": "CMI453215U1R0KT",
+      "version": "1641818040",
+      "type": 2
+    },
+    "d0725c4a0c62462584d39536e843f4b5": {
+      "source": "33851e6274494e12a0d6c2058170d2d5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CR-03FA7---33R",
+      "version": "1659103857",
+      "type": 2
+    },
+    "24537f119ff34dfc92e4fe194e84a625": {
+      "source": "0096f6c343054bf380c94743602d7846",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CR0603D33RP05",
+      "version": "1642737461",
+      "type": 2
+    },
+    "edffa6120be144aaa14f53a652b429a6": {
+      "source": "3d0268ea863c4e35bcb0970cdb806f55",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CR0603FA4700G",
+      "version": "1642734616",
+      "type": 2
+    },
+    "02059f2500024beea2eff1d8fee7b9eb": {
+      "source": "644d0c35d9b69a899b24f603152e3c20|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "DGND",
+      "version": "",
+      "type": 18
+    },
+    "521ccf2a471f4e3c9d633a35c1196e90": {
+      "source": "a8a99ad0da6c401ba993b5e806bd765f",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "ERJ3GEYJ473V",
+      "version": "1648408906",
+      "type": 2
+    },
+    "071b9ce504ab4e6d8bd9e12226c1d24f": {
+      "source": "61af1f2873b44287a9ae5bedb8d15c9c|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "FN18N200J500PSG",
+      "version": "1641820387",
+      "type": 2
+    },
+    "b2cbdc67101641f99490f03c5d6873fd": {
+      "source": "77a2780407a747499a062b3754ab4e5a",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "GRM188C71C475KE21D",
+      "version": "1641820639",
+      "type": 2
+    },
+    "b1455afdbde64cf0aa1aedef094497c2": {
+      "source": "92d0669bc868456dadbf3f3d74c240bd",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "GRM31CR60J476KE19L",
+      "version": "1659065402",
+      "type": 2
+    },
+    "07c26ee051fc405ba93792f390eee108": {
+      "source": "04e5c528fdcb4bf899859de8a8f8ca3b",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Ground-AGND",
+      "version": "1649575325",
+      "type": 18
+    },
+    "83f451c049854ae8968d99eea3276fd9": {
+      "source": "542d01b8b25e4236a453d7437c3944df|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Ground-GND",
+      "version": "1642995718",
+      "type": 18
+    },
+    "cd5df5ad6e3e4cc594edc771d019068e": {
+      "source": "1c18ed5a06f64a07bdb5b0cf525b3d9e",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Ground-GND",
+      "version": "1649575362",
+      "type": 18
+    },
+    "d5a3e31c10994d7db1df0dace16c68ce": {
+      "source": "701480c27ec04a908bfadbbdb558afbc|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Ground-PGND",
+      "version": "1642995782",
+      "type": 18
+    },
+    "08d51be9866744b0a8f75b77d10f5645": {
+      "source": "75f691918cf342fa89226f928dd3c464",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "HDR-M-2.54_2x3",
+      "version": "1657093465",
+      "type": 2
+    },
+    "b8968d38ef114b1ba8748e1b5053cd79": {
+      "source": "dee2d2e644e74ec2971efaea4f31d4c1",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "HDR-M-2.54_2x4",
+      "version": "1657093465",
+      "type": 2
+    },
+    "eb2c422eeea34b8a8bd4b85370d05fc8": {
+      "source": "ce9e05319a722da4d7839f8261804da6|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_CHIP(4509-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "79d7f9177e3a44baafeaa0127f21150e": {
+      "source": "e2ef3f895d1dbb529eb515692cecadc3|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_CHIP-0402(1006-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "063c7d17a7be44fcbeb823b45dd0cae9": {
+      "source": "19d38734b174c523b90b27ab07a714b2|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_CHIP-0603(1608-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "dc154b10a3d84ba8b47dab330dd48154": {
+      "source": "19337e012e8c35c777d26d1427c9eef5|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_CHIP-0805(2012-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "21c5e6339f6d413aa19ee9133c95a27d": {
+      "source": "88c56a13c6d719232a25ede9a0e5c625|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_CHIP-1008(2520-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "1933b22400aa44be996f8bf9cceda1b4": {
+      "source": "3bb7bb6406c7ba3f17d6ef07951a0e0b|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_CHIP-1206(3216-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "e5bfdf2bf53e480084c00fa450244cc9": {
+      "source": "39e4a2d47d8524eb0f882d38b9ec41cd|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_MOLDED(5450-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "0ed8a973d9234c63ba93bd40b71b2cfd": {
+      "source": "d3192c6890dd9841ed8cc27d8ece2c70|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_MOLDED(8530-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "51747a92df7b40029820f2dcf47c444c": {
+      "source": "b169eb6bcf71c01c3963b9a478a93bd6|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_MOLDED-(11072-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "fe5076552ef24030935a360da1333cbb": {
+      "source": "b023fb01cd4be5b0880073f8c697e16e|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_MOLDED-1210(3225-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "7f81223b75bd499581db88a1d1fc3e0e": {
+      "source": "4200cfd82d027e4f579e573cec54beb4|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_MOLDED-1612(4030-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "d300e9edb51c4585a97bf51f56a531a7": {
+      "source": "f80d7fc9da3a0259b84361843e79b417|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_MOLDED-1812(4532-METRIC)",
+      "version": "",
+      "type": 2
+    },
+    "08bff9f38d1f46069e18d524b622dd5d": {
+      "source": "f1da94e6d48a515da2ee5e67f44cacc8|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Inductor_L_RADIAL-26MM-DIA",
+      "version": "",
+      "type": 2
+    },
+    "9fa9ae542cfa437190390190479fd068": {
+      "source": "440c5c247c708c6e46783e47e3986889|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "L_",
+      "version": "",
+      "type": 2
+    },
+    "2b9d153881e44e858e61ba4403c64f14": {
+      "source": "8ce1da6f4b62473ba6f42ef17bb5eae3",
+      "desc": "MBR0520",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MBR0520",
+      "version": "1641818031",
+      "type": 2
+    },
+    "07f4bbfafa54448d9324f80cbf8582f1": {
+      "source": "4bafd71c09ca94bcfc881fc636c99294|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MCP41010-I/SN",
+      "version": "",
+      "type": 2
+    },
+    "bfd102188c4545e6a016ab517852b704": {
+      "source": "0b128c335f6205efb3b109330847c404|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MCP41010-I:SN_MCP41010-I/SN_",
+      "version": "",
+      "type": 2
+    },
+    "d0bbb8898c0d4f7abb995e10aec0d148": {
+      "source": "eb8aaaeadc6f4412632f8a8158c1d9da|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MCP41010-I:SN_MCP41010-I/SN_SOIC8-N_MC_MCH-L",
+      "version": "",
+      "type": 2
+    },
+    "f2ce37e5a03a4861a36eaddb557fc23c": {
+      "source": "5ba4e481ba144a61de4e05e4c846b254|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MCP41010-I:SN_MCP41010-I/SN_SOIC8-N_MC_MCH-M",
+      "version": "",
+      "type": 2
+    },
+    "832831143b6840af88aee5b4347341a8": {
+      "source": "6195cf30e0eb4ec4b9f19cf381eedaec|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"ADC/DAC/Data Conversion\",\"Digital Potentiometers\"]",
+      "title": "MCP41010T-I/SN",
+      "version": "1642735575",
+      "type": 2
+    },
+    "fcb4a85625bf4fef9c25268061167eda": {
+      "source": "84775f2418564092af5a626c4f20b604",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MCR03EZPFX4021",
+      "version": "1659104112",
+      "type": 2
+    },
+    "93ce54ff79a44b52ab81ae987d191573": {
+      "source": "cc49c9f2084f4164b29f31cb41518787",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "MIC5225-3.3YM5-TR",
+      "version": "1641820239",
+      "type": 2
+    },
+    "fef18713fad642b1bd89828d7757c7ba": {
+      "source": "9efc5969ac6c4c83b5123274296715d2|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "Netport-IN",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Netport-IN",
+      "version": "1635849558",
+      "type": 19
+    },
+    "f77154e5513b45bda7515481e62411c7": {
+      "source": "886278409be54d11a143e9ce378c7103|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "Netport-OUT",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Netport-OUT",
+      "version": "1635849615",
+      "type": 19
+    },
+    "08b0c87ec4194de896d03c780ec06f80": {
+      "source": "9a91e423233cb015d469d42c56b20baa|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "PAD",
+      "version": "",
+      "type": 2
+    },
+    "0c904951ec2a409b930c612ad9c1172f": {
+      "source": "c1b8b751a29345708c24bcef9a67e2b3|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Power-VCC",
+      "version": "1642995821",
+      "type": 18
+    },
+    "ee075c9591754a62a9207dfbc2b85ca7": {
+      "source": "b4fc5614febe4d0c966db51b22af788e",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Power-VCC",
+      "version": "1649575514",
+      "type": 18
+    },
+    "37ebd3a68a3f4b4b9467598889d244d0": {
+      "source": "054bd58bb0a34cb0972b460f7ac6edea",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Q22FA12800345",
+      "version": "1641820866",
+      "type": 2
+    },
+    "8c35b5ee241741fcb1b94dc8b55e144d": {
+      "source": "377bcbab3a1a4dde990ebf310affa1d3|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "SG-310SCF 25MHZ 3.3V -40~+85℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Crystal Oscillator/Oscillator/Resonator\",\"Oscillators\"]",
+      "title": "Q33310F70032100",
+      "version": "1641819005",
+      "type": 2
+    },
+    "0bf155d8318a4a5291333284751928e9": {
+      "source": "c1f723efbab4e551f38824193410559c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "R_",
+      "version": "",
+      "type": 2
+    },
+    "e10f8ca5884b4c0abb48b473b3316c5c": {
+      "source": "bfacb102ae0b5bcbddf0de885d2068e5|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "RESISTOR",
+      "version": "",
+      "type": 2
+    },
+    "7983a0bf1581423aba331e63d79a9eac": {
+      "source": "d1fa5cc11ea0ee4ba9162a5f57c01fd5|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "resistors_?**4(1206)_10K",
+      "version": "",
+      "type": 2
+    },
+    "9ea4828b7af14ad1b99de15651afe600": {
+      "source": "97095b5b208170a8c7a5a2b81191e07e|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "resistors_?**4(1206)_220",
+      "version": "",
+      "type": 2
+    },
+    "0fbb9db4591140c5a2c8d6e762ff36b3": {
+      "source": "34768e519c8de1d54b96ad319b436f7f|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "resistors_?**4(1206)_330",
+      "version": "",
+      "type": 2
+    },
+    "48e8b17fb38f49298f3d72f9d36148ac": {
+      "source": "02e7b8c6a0cc4c458304f28909c013c4",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "RT0603BRD074K7L",
+      "version": "1648886770",
+      "type": 2
+    },
+    "74c519de35b74c7eb8e476d0b7957a50": {
+      "source": "7c0e3b610de44502abbf9cef8a6dea28",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "RT0603DRD0710KL",
+      "version": "1642735607",
+      "type": 2
+    },
+    "73898ab1991942ba960dbf2ca9038c9e": {
+      "source": "6aacf96eac894f9796d6f082a9c6a3c1",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SG-8101CB 50.000000MHZ TBGPA",
+      "version": "1641818837",
+      "type": 2
+    },
+    "84f7524617384b38ac26b2054ec07933": {
+      "source": "2924fbcaaec048e389651912b4384f34",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Sheet-Symbol_A4",
+      "version": "1656925871",
+      "type": 20
+    },
+    "244ee1a02a664f6aa49330a4a80f3af9": {
+      "source": "5428d32a64668e97909458b7e59136ab|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_10NF_-0603-50V-10%",
+      "version": "",
+      "type": 2
+    },
+    "069c2be5a85b4930897b3cb528d07fdf": {
+      "source": "57aaf4064de340d39eb6d4199ec2d419|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_10NF_-PTH-10MM-10000V-1-%",
+      "version": "",
+      "type": 2
+    },
+    "9d12efc54e9747f3a3cc00aba102256c": {
+      "source": "9116653f4ec02806db2bbff08e0bd60d|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_22PF_-0603-50V-5%",
+      "version": "",
+      "type": 2
+    },
+    "6476e30fab884653923cc63ef1aabf5a": {
+      "source": "d027c8e6f8ddb5386d84789bb4112604|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_22PF_-PTH-2.54MM-200V-5%",
+      "version": "",
+      "type": 2
+    },
+    "aba144abecea4d27877ecf67b10caf1f": {
+      "source": "e27723ca3dfe5407906973513aaf4ef4|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_47UF-POLAR_-EIA3528-10V-10%",
+      "version": "",
+      "type": 2
+    },
+    "5e365584ef92477bbe2d505d03ba3e50": {
+      "source": "07e3cf425008a02eefa371461bcd85dd|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_47UF-POLAR_-PANASONIC_D-35V-20%",
+      "version": "",
+      "type": 2
+    },
+    "1fc1bfe582454f99ba44b3c0bd09c454": {
+      "source": "d0396b871347ca1c54d98b272d31c1b1|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Capacitors_47UF-POLAR_-PANASONIC_D-50V-20%",
+      "version": "",
+      "type": 2
+    },
+    "f9a09b09ec044555bb683afdfae3ebe9": {
+      "source": "a55ee6989b03edbda39ec063adb98992|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SPARKFUN-POWERSYMBOLS_GND__1",
+      "version": "",
+      "type": 18
+    },
+    "db0b823c608b47c69acb527aa8867a06": {
+      "source": "41bc6b75b5c1f08a5bcc1170ca025c9c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-0603-1/10W-1%",
+      "version": "",
+      "type": 2
+    },
+    "f56b72d394314b38af70d22af1fbc74a": {
+      "source": "5f9488306dcb54e85988bbbb0e7c1fba|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-0603-1/10W-5%",
+      "version": "",
+      "type": 2
+    },
+    "d976e098e59640598f6af66956a1e3df": {
+      "source": "c5a139d1038bbe247be7320256797ffd|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-1206-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "e562a76e0e2141568b3644479b3b1c4b": {
+      "source": "4c5bdebb9aa12b7b96909c1b7c02e5cc|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-HORIZ-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "c925d7d78f594f1bba5e49018b7023ff": {
+      "source": "dfd91455549346d9725db1f329462e13|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-HORIZ_KIT-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "b04c04441ea742eb9c5a423ec8355767": {
+      "source": "02a9f029b9c5befbf258742f78ce3a68|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-VERT-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "81e8d22f5a9446f4a024711cd2bf53d3": {
+      "source": "aa11c7ec6a51b79b979e57a485a2d6b0|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_10OHM_-VERT_KIT-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "cd336990828644b998b6c5591fc988a9": {
+      "source": "9cba8f43aa3bb36236054a889d5c69ae|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-0603-1/10W-1%",
+      "version": "",
+      "type": 2
+    },
+    "cd81d84d177d4c97a2138231d9002229": {
+      "source": "9acf95645b446e5c47278a94792250cd|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-HORIZ-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "05d71e3ba9dd486393b5c1beabb9a5c6": {
+      "source": "497e6afbee49871081842d50e93f2cb7|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-HORIZ-1/4W-5%",
+      "version": "",
+      "type": 2
+    },
+    "4da75ad1fd164c78b3a4d9740ff3ad4a": {
+      "source": "231c1399efe29c0a5137808f44fdd778|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-HORIZ_KIT-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "22d7a0f0a4e14898a7fe4f1fcece0c5c": {
+      "source": "a719bc4482ab1605bdf6ddff1f270cdc|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-HORIZ_KIT-1/4W-5%",
+      "version": "",
+      "type": 2
+    },
+    "cd976def348f42ef8099a930f7017b69": {
+      "source": "4a60514b14a5ad3d9820293ebe43b90c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-VERT-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "8153bcde741241439058d35f0c3233f7": {
+      "source": "39ffdb1a515201bb0c3e8b8214095a51|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-VERT-1/4W-5%",
+      "version": "",
+      "type": 2
+    },
+    "4cb04d14b11e452ebecdc43245f49c67": {
+      "source": "251fd9325c21d4465eeabe55b373a18d|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-VERT-1/6W-5%",
+      "version": "",
+      "type": 2
+    },
+    "8b500681017240d8ada5cda7b59f3ad2": {
+      "source": "fd8d98f15e01e9a07b33fb9d44242bae|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-VERT_KIT-1/4W-1%",
+      "version": "",
+      "type": 2
+    },
+    "f6e75f8ad651465188d5bda2b0c742fc": {
+      "source": "2b81037e7af42d214df55fb8df2c8b22|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_1KOHM_-VERT_KIT-1/4W-5%",
+      "version": "",
+      "type": 2
+    },
+    "6003dd393a674fec897b6cce20cc1bc4": {
+      "source": "95c1b5dedaa6348aac3531d16993c13b|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_RESISTOR_0402",
+      "version": "",
+      "type": 2
+    },
+    "1b8a91e188e345eab189685f8b877f06": {
+      "source": "3d3a9a78c35e3f37bf7fd31f4c9962bd|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_RESISTOR_0603",
+      "version": "",
+      "type": 2
+    },
+    "12d1a6195392425e91442cdd9fca548f": {
+      "source": "86b3aa9e8936bf8850a06947175d0eee|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_RESISTOR_0805",
+      "version": "",
+      "type": 2
+    },
+    "c189da3b9d5c482c90c010bbfee45652": {
+      "source": "024eee50af2bb15ecf166ca7599d9266|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_RESISTOR_1206",
+      "version": "",
+      "type": 2
+    },
+    "aac0a69fa94c480e8f2e8b84178597f3": {
+      "source": "1129000062d170df760d5721297b0f95|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_RESISTOR_AXIAL-0.3",
+      "version": "",
+      "type": 2
+    },
+    "e9db1a3ae4ce4c7b9c35104e0d566ee4": {
+      "source": "a93b9b30046253a34453eaad15f40847|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SparkFun-Resistors_RESISTOR_AXIAL-0.3-KIT",
+      "version": "",
+      "type": 2
+    },
+    "0abbf7c402994ae1a056440a64d8ea07": {
+      "source": "3c4dda5afb59462b9b064e59dc6ea983|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Crystal Oscillator/Oscillator/Resonator\",\"Oscillators\"]",
+      "title": "SS25000016",
+      "version": "1641821035",
+      "type": 2
+    },
+    "9d707d87a1984692a58b8499aab592f9": {
+      "source": "15d997c5a6344a9c93a3ec6627e31df8|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Diodes\",\"Schottky Barrier Diodes (SBD)\"]",
+      "title": "SS34SMC",
+      "version": "1641820182",
+      "type": 2
+    },
+    "310ee27a030f40ccb23357e0b868bbae": {
+      "source": "2668690529d348d2abca6d5a11248b0b|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Tantalum Capacitors\"]",
+      "title": "T529P106M010AAE200",
+      "version": "1646823003",
+      "type": 2
+    },
+    "869c984f85974a07ad21d08a1155734b": {
+      "source": "257689a85c0dc922b2614fa81fc0dd8a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "TAJR106M010RNJ",
+      "version": "",
+      "type": 2
+    },
+    "8b66b74c776b4c8c99e1b30a0f3f70eb": {
+      "source": "bd2a54a58dde4bf0d4dcd9c7d8514802|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "TAJR106M010RNJ_TAJR106M010RNJ_",
+      "version": "",
+      "type": 2
+    },
+    "d46b0609564042d0b8f34b62289944dc": {
+      "source": "f77f60e505d743659e99aaa44c96aaca|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "TCC0603X7R103M500CT",
+      "version": "1641817757",
+      "type": 2
+    },
+    "124bd41e294344a9b95040d64ca1f448": {
+      "source": "b82bdb47bab04663827321f72b57bbcb",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "TCC0603X7R473K500CT",
+      "version": "1641821038",
+      "type": 2
+    },
+    "b753d65a79fb45a1b30a9bb492f34816": {
+      "source": "79856fe870be288cd0cb90081f30d25c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_B1,27",
+      "version": "",
+      "type": 2
+    },
+    "af49221297374a6babbb51caf8bad4aa": {
+      "source": "cfb427356de520a52e6b6e90c27497d0|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_B2,54",
+      "version": "",
+      "type": 2
+    },
+    "a5464e1181944b46aaaf81004e596488": {
+      "source": "e7cdab6fe77f6352d4a89516b162c39a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_PAD1-13",
+      "version": "",
+      "type": 2
+    },
+    "3accfd4e92f14bcc890301b53c63e003": {
+      "source": "86a994b5f5d00233bcf1e62de222dc8a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_PAD1-13Y",
+      "version": "",
+      "type": 2
+    },
+    "019504730a4c4839ad206fd7f9cf5677": {
+      "source": "cdff045d72e2c3ead4b4dacbd886a4d1|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_PAD1-17",
+      "version": "",
+      "type": 2
+    },
+    "82458d1640b64404aa1ff30b8a3adcc1": {
+      "source": "f133634eea373a7197b7f4710c96d7be|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_PAD1-17Y",
+      "version": "",
+      "type": 2
+    },
+    "90e87a62f2834d4c87a88f4eb905ea34": {
+      "source": "36548b2c44a2ec819c710d7450d90561|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_PAD1-20",
+      "version": "",
+      "type": 2
+    },
+    "9686f3568ee64101a401dbfe8ac6a8d7": {
+      "source": "3c0ef5c333c9a2b0c2c157bb6b9a4702|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_PAD1-20Y",
+      "version": "",
+      "type": 2
+    },
+    "ca4c2cf8cfc949ac8d464a6ae64ae26e": {
+      "source": "eeaa15bf59a66ba71fd56ff917068bbc|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP06R",
+      "version": "",
+      "type": 2
+    },
+    "ed85926d0ef147dd8301425c16904974": {
+      "source": "ada230044e96eeee6fa718eceece36aa|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP06SQ",
+      "version": "",
+      "type": 2
+    },
+    "c736ce69ca8841f9b4fee3027b8e2114": {
+      "source": "0457d755a0a60c458e411457bb625d89|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP07R",
+      "version": "",
+      "type": 2
+    },
+    "33a815e28fd74e6cbf2b41ab336514f2": {
+      "source": "3f52e96e10b58709732d9baaf6e6bb9b|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP07SQ",
+      "version": "",
+      "type": 2
+    },
+    "d9e9ee797b9b478f816e35e222a16d9f": {
+      "source": "3c6653c9b67ddfff37b8c38ebedf4a84|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP08R",
+      "version": "",
+      "type": 2
+    },
+    "c23503e662ec47d1878dac5f4d5e7443": {
+      "source": "cb0ef60548612ed1f3b3abd9915d16ba|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP08SQ",
+      "version": "",
+      "type": 2
+    },
+    "7af6d888bc7b462bb43a4bd0898bbacf": {
+      "source": "7bf057a92367871149e71d1729ccfbfc|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP09R",
+      "version": "",
+      "type": 2
+    },
+    "e0913c35e42b4c0dbfd20e06324a7a55": {
+      "source": "f770f0d225b4fc4acbe21fdffabcaf5a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP09SQ",
+      "version": "",
+      "type": 2
+    },
+    "0507fbf974eb4e72a0b217318d48be62": {
+      "source": "3c1df5afe04898a7a9c44cd4416220a8|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP10R",
+      "version": "",
+      "type": 2
+    },
+    "08583c37623b49b1aff90cff40c9aa9c": {
+      "source": "a4ccdef538e4d3e2cbbe82bcd27ea592|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP10SQ",
+      "version": "",
+      "type": 2
+    },
+    "5387ab3f232b464c9d6ae06f021c6d99": {
+      "source": "ff1f85bf7561304e78d209ff215fd1bf|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP11R",
+      "version": "",
+      "type": 2
+    },
+    "0cceb223b6804ecfb7f266f516ebde44": {
+      "source": "bf31b87cc0ad447f2b2cdda71dbb51bd|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP11SQ",
+      "version": "",
+      "type": 2
+    },
+    "36b17be5198a4ebb8e5feebafdaba73b": {
+      "source": "87a9d344b2c22904ec41ffbae91d5e13|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP12R",
+      "version": "",
+      "type": 2
+    },
+    "67a39dae10d3440b8e389f73005d68f0": {
+      "source": "705776627c1a24bdd15aa83b00bf523a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP12SQ",
+      "version": "",
+      "type": 2
+    },
+    "7754bdd6e95141eab7af23c8c93841b5": {
+      "source": "abd53acdfe9753d878556ce0fea83207|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP13R",
+      "version": "",
+      "type": 2
+    },
+    "b0411a29ce014978a39de9f7a25e807f": {
+      "source": "552360079e0c61f5de869723c9ce80e1|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP13SQ",
+      "version": "",
+      "type": 2
+    },
+    "3dae5d4df4154a3e91e94928ccd12ed7": {
+      "source": "6db1efa8bb401109c74c45c15f8b2e5c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP14R",
+      "version": "",
+      "type": 2
+    },
+    "32d32db62d6e4cbe93bd3793c117a87f": {
+      "source": "79ac5fcff2585ebfccc02b694bb30744|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP14SQ",
+      "version": "",
+      "type": 2
+    },
+    "5f01a94e5efc4695a455deaba46a8989": {
+      "source": "739d49c26b5acc7bc897f50ef7c0a54f|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP15R",
+      "version": "",
+      "type": 2
+    },
+    "fb8f10ee713a4dfcb021446f130dd933": {
+      "source": "d700c5c8ed6be2cfce36ad5152ad748d|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP15SQ",
+      "version": "",
+      "type": 2
+    },
+    "e450b306cfc84e95b5894d765afe54f2": {
+      "source": "b505f9530c30b434bb1c5ce9a9b914e3|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP16R",
+      "version": "",
+      "type": 2
+    },
+    "68eacee69b3c4ff786f9293c1abbd8fb": {
+      "source": "0be659012c40fce2c77e3dc4253b06be|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP16SQ",
+      "version": "",
+      "type": 2
+    },
+    "bcf08ede1b914fa4b92c94285ee107de": {
+      "source": "15b26d14f953f3e24ad3381a7df1af10|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP17R",
+      "version": "",
+      "type": 2
+    },
+    "d0926ae40ff443659b1853e86808db41": {
+      "source": "b527d4a7f6f35a81697c7cc16e0affb1|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP17SQ",
+      "version": "",
+      "type": 2
+    },
+    "a49afbdb49a542a39ed51c39530baa95": {
+      "source": "15e528fadd2b3538cdb79571f0be9ab3|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP18R",
+      "version": "",
+      "type": 2
+    },
+    "dcaa0c1eec5b4262b085ebbfb44628b7": {
+      "source": "342e658f2a341d4130fa16de0c25643a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP18SQ",
+      "version": "",
+      "type": 2
+    },
+    "6a7f928d196b4324b99574df4212053f": {
+      "source": "db3e3976c1fe691ae338517a539f5453|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP19R",
+      "version": "",
+      "type": 2
+    },
+    "a4be2c41eb764cfbb264a5f4e393c8a5": {
+      "source": "5943638ccfcae55ebd10d2ed12743018|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP19SQ",
+      "version": "",
+      "type": 2
+    },
+    "e213cff3dae943f49c640c7d08fde485": {
+      "source": "bdc9b12eb185ecf326b21dab567166fb|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP20R",
+      "version": "",
+      "type": 2
+    },
+    "42fdd2f348cc414f8539c1397d7c9557": {
+      "source": "2d7d536335517df1b56db9289a00f206|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "testpad_TP_TP20SQ",
+      "version": "",
+      "type": 2
+    },
+    "bf7c07ab91c049d6b0077ea5004815cb": {
+      "source": "0a41f2dd923676871312de0e840d302e|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "TP",
+      "version": "",
+      "type": 2
+    },
+    "597bf18b2d2148b3bba8277dc159ae19": {
+      "source": "88c6cc8b21f742efb5610e877942b0f4|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "TR0603B10KP05250.1W",
+      "version": "1642737663",
+      "type": 2
+    },
+    "3f3ca0cc8e7743baa7b9540d7e77fff6": {
+      "source": "e17b9556d6bef918cc4451cc3fd4f99a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "VISHAY_SS34-E3-57T_0_0",
+      "version": "",
+      "type": 2
+    },
+    "df8acdcda7d54fd68969b3b423e8cb2d": {
+      "source": "32dac0c2bd18be627bb1d1d733b0b2ec|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "wirepad_SMD200_",
+      "version": "",
+      "type": 2
+    },
+    "b1577ff11c48402bb3621d06a3e9fd54": {
+      "source": "039dcfe8dc79448f97aefcd4198f0643",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "X4612WV-08I-C40D28",
+      "version": "1658736467",
+      "type": 2
+    },
+    "11ec48448dbc4e7d8009302446630147": {
+      "source": "e90b9cdc7dd5468580fb612a2c0beb1a",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "X5511WV-02-C396D43-1220",
+      "version": "1658736430",
+      "type": 2
+    },
+    "e5a460215df0418389e229159699200b": {
+      "source": "ebcee33ea94f4488ad5c4eccd770a0fb",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "X5511WV-06-C35D35-1000",
+      "version": "1658736473",
+      "type": 2
+    },
+    "fe017d88dca14119a96698fa77770811": {
+      "source": "|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "main",
+      "version": "1647764123",
+      "type": 17
+    }
+  },
+  "footprints": {
+    "6a20256c86614607b2676af6fa40860f": {
+      "title": "0603",
+      "source": "c90b7f4378a55a9170642af29922cf5c|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "51d1c3c2990c439eaf6570386e5424e3": {
+      "title": "ASE24576MHZLCT",
+      "source": "c344a93439d221625e5b6bebb8443b58|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "14a96cf1902e4b8bb371729d4387a700": {
+      "title": "C0603",
+      "source": "76d6c29a47804db487f8a92b2621751b|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1646640846",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\",\"\"]"
+    },
+    "e9c33e8a257f4ebda39091597f247f40": {
+      "title": "C0603",
+      "source": "f499007f726c45dbbd59d7d6a82bc126",
+      "version": "1652410754",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "fde3845907c5461288ce7fb02b8e6930": {
+      "title": "C0603",
+      "source": "f499007f726c45dbbd59d7d6a82bc126",
+      "version": "1652410754",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "a12bcdb824e9400b83c13cd1f3ed5b4b": {
+      "title": "C1206",
+      "source": "662a139c6673408a9f29eec4494c53e9",
+      "version": "1656396717",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "010e6a0b084e45b1b2ca21533901b4be": {
+      "title": "CAP-SMD_L2.0-W1.3-FD",
+      "source": "03d43d0146ef4c6c94bb4c5f7ec76471|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1646224023",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\",\"\"]"
+    },
+    "74fc26479b62478a815cdb9223880502": {
+      "title": "CAP-SMD_L3.5-W2.8-R-RD",
+      "source": "f23e2db0f5b04146bb25c30e9ababaff|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1642493394",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\",\"\"]"
+    },
+    "7dd7965383df49a7a5471233aaa7742d": {
+      "title": "CAPPM2014X120N",
+      "source": "e485f5fc990ce9582c77af8dc0ab312f|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "6ca66e698ee4454482bdf6aa5625642c": {
+      "title": "CRYSTAL-SMD_4P-L2.0-W1.6-BL",
+      "source": "da60976a589f4948baf33a5c09baab27",
+      "version": "1649403491",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "e791e1bfb32d43fdbd1894e2014482d2": {
+      "title": "EIA3528",
+      "source": "41f209b698281bef889c1e502ad40ae4|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "5076b4ffe375452684295d11e524d7a0": {
+      "title": "HDR-TH_2P-P2.54-V-M",
+      "source": "bfd7de701b53498587c1bbff92258484",
+      "version": "1639468720",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "3df9ca6f5c074ad6989f5f8383415b23": {
+      "title": "HDR-TH_6P-P2.54-V-M",
+      "source": "efa2733944094619a0362fc585c485b2",
+      "version": "1642984825",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "a1c2c0b96ce949acae7f3bf6711ef302": {
+      "title": "HDR-TH_6P-P2.54-V-R2-C3-S2.54_A2541WV-2X3P",
+      "source": "ca751f1bd47b4b8f862477715998aa12",
+      "version": "1597297092",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "cb0f773ed6974a7483cb9f8bb87036cf": {
+      "title": "HDR-TH_8P-P2.00-V-F",
+      "source": "dc5d48398110449bbc8be136d4b633b4",
+      "version": "1652444505",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "617cf62d0406418cb266f7d2fd56afdc": {
+      "title": "HDR-TH_8P-P2.54-V-M-R2-C4-S2.54",
+      "source": "213f6e72eb9e4f45a27b50aaa5143501",
+      "version": "1639617015",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "3c0699ce94de4a78bd65fc8ca54a49d6": {
+      "title": "IND-TH_BD12.0-L23.0-P27.00-D1.0",
+      "source": "1b88a08500684f8b928029638c0ab26d",
+      "version": "1652684954",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"IND-TH\",\"\"]"
+    },
+    "6cee46f08ab44f78ac41f035da68e4ed": {
+      "title": "IND-TH_BD5.2-L12.0-P16.00-D0.8",
+      "source": "9e5a560ef40743b5b7494f7018283ec5",
+      "version": "1651322704",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"IND-TH\",\"\"]"
+    },
+    "7e4b75fe55dd465cac52a817a0d42ff1": {
+      "title": "INDM4532X340",
+      "source": "02575abcc59bd79f458cc8421d5a021a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "c0910de80a974f4892720d4855d3fb4b": {
+      "title": "L0402",
+      "source": "d8867d39abac470e83c3e5731e3084e8",
+      "version": "1651210741",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"IND-SMD\",\"\"]"
+    },
+    "776beae156a04d0fa0e511576ad17ed5": {
+      "title": "L0603",
+      "source": "369762e5ba6942f8b95f861c27425f7c|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1642399647",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"IND-SMD\",\"\"]"
+    },
+    "d0a42977274b4ace90f34aa488289bdf": {
+      "title": "L1812",
+      "source": "2894f11442d6455bb6e324397aee5497|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1645177092",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"IND-SMD\",\"\"]"
+    },
+    "3559b0b1542c454a990cf7a859c44512": {
+      "title": "MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL",
+      "source": "0410a7744ab64f6b9a8107a9b83504ef|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1621301586",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"MSOP-10\",\"\"]"
+    },
+    "8e5d79cfb9b7491ebf7e26ecb3ba902a": {
+      "title": "MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL",
+      "source": "f50cb0d3149b47f2b82b50c427ef2a3e",
+      "version": "1649575145",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "27435adc00004536899ab7f48bc44915": {
+      "title": "OSC-SMD_4P-L3.2-W2.5-BL",
+      "source": "73c2318328304dab988b042ac644742c|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1646302049",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"OSC-SMD\",\"\"]"
+    },
+    "407c7c8f392841388a8422fef7b9fc70": {
+      "title": "OSC-SMD_4P-L5.0-W3.2-BL-1",
+      "source": "9e72015e2e4c4753a554b5145116783c",
+      "version": "1631664401",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "cba3272128734980a1b4a1cb03861414": {
+      "title": "OSC-SMD_4P-L5.0-W3.2-BL_SIT1602AI",
+      "source": "5fbe0494077c4b2a803611317a5e4332|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1623201656",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"OSC-SMD\",\"\"]"
+    },
+    "0c32f0ee4531435cbfd1a6ed8e1d8d00": {
+      "title": "R-0603-X4",
+      "source": "e11565fe0668c3ebd259d0dd23b0e8ca|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "0f74940c9e1c43f78cde9e0b1ffaa834": {
+      "title": "R0603",
+      "source": "50b4943912284dab97752312e589e9e2|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1641870262",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"RES-SMD\",\"\"]"
+    },
+    "070265b627e749d899ed6a8f912ff4cb": {
+      "title": "R0603",
+      "source": "b44c1b381d26462586b8a8d9fac22ec8",
+      "version": "1651215817",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "171a95cdd4564979b9660f60b4758cb3": {
+      "title": "R0603_1",
+      "source": "50b4943912284dab97752312e589e9e2|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1641870262",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"RES-SMD\",\"\"]"
+    },
+    "60c93b94399f438fbc33634da96420a3": {
+      "title": "RES-ARRAY-SMD_0804-8P-L2.0-W1.0-BL",
+      "source": "ed1c88b293684d55a50eb8e5176b44ba|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1632966460",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"RES-ARRAY-SMD\",\"\"]"
+    },
+    "105ea6aca01c424cb93196202f0dbdd1": {
+      "title": "SMC_L7.1-W6.2-LS8.1-R-RD",
+      "source": "2e97f583b2464164a345cc6e6d3d8522|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1626771987",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SMC\",\"\"]"
+    },
+    "1e7c91bf6a6a42ccb99e815ea9f3f26c": {
+      "title": "SMD200-200,08",
+      "source": "73a672d243d64607f4cc6191f2638699|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "ee5fd5e1742b4e0eb1c01f364e9f9500_e297": {
+      "title": "SMD200-200,08",
+      "source": "1e7c91bf6a6a42ccb99e815ea9f3f26c",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "uuid": "ee5fd5e1742b4e0eb1c01f364e9f9500_e297"
+    },
+    "0f863e6b420f4c3fb779fad01155401a": {
+      "title": "SOD-123_L2.8-W1.8-LS3.7-RD",
+      "source": "7aee0017ada84c87ba19c1f33386d21b",
+      "version": "1652421997",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "e3358f423779446d879644df95b76893": {
+      "title": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+      "source": "2e6932429ae745aea190762fe65ff34b|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1616135344",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOIC-8\",\"\"]"
+    },
+    "ba5e94e541ba4386a58d1a22d124146b": {
+      "title": "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",
+      "source": "f7d15c2fdb6442c7924d73bb1cadcb47|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1638414057",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOIC-8\",\"\"]"
+    },
+    "30f73fe372e043afad727d361e37cc5e": {
+      "title": "SOIC127P600X175-8N",
+      "source": "eb11b31b8203274a97e787c92f5a36ae|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "fb89b5c49b8944ce9c60cdbe3ca51c60": {
+      "title": "SOIC8-N_MC_MCH",
+      "source": "c65daf5fc63eaa13d1930a0acd3ee83a|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "da2da13443ab4816b1adb73e5c8819dc": {
+      "title": "SOP50P490X110-10N",
+      "source": "ce6a97689a51f1a2f0d3ee982f661b62|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "6b798ff9dad4424595015c815c8eac9c": {
+      "title": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+      "source": "124f07aad233471aaaadd3ad027839dc|0819f05c4eef4c71ace90d822a990e87|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "1641974775",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOT-23-5\",\"\"]"
+    },
+    "9de788f6d33a44dbb80cfff4a7061745": {
+      "title": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+      "source": "3962fa5424e54dde8cfd30751ab1c7e4",
+      "version": "1652416343",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "3be23b78bafb48b79762b101f99a7038": {
+      "title": "TP09R",
+      "source": "a27227d1adbe4456552d17131a70417f|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "0356098211df4b6aa3f1ca3dae79de37": {
+      "title": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+      "source": "a11950ceac50438289ff689a35fd9574",
+      "version": "1649417827",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "e463a6e09b5645209c83745a2d8bab01": {
+      "title": "VISHAY_SS34-E3-57T_0",
+      "source": "4fc3b7c3b1599bcafe68802e5c4fced2|4d15e6eefc1c8c7c0b7e5bfc8eb336271e87155f95ae08b458365aaf3f5cee60|e8f8e6878b40abe261d16e3499d2f8b56d081dfc8a424124b4d664ab519cc1e8",
+      "version": "",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    }
+  },
+  "devices": {
+    "e173a14aac7346caa18613a244452b56": {
+      "title": "06033D334KAT2A",
+      "attributes": {
+        "LCSC Part Name": "330nF ±10% 25V",
+        "Supplier Part": "C597125",
+        "Manufacturer": "Kyocera AVX",
+        "Manufacturer Part": "06033D334KAT2A",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200611/C596996_5C2870FCBE04273D0B42880C13DA8C38.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "a030e1daee264519bf4b51760b130017",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "330nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "25V",
+        "Temperature Coefficient": "X5R",
+        "Description": "Capacitance:330nF Tolerance:±10% Tolerance:±10% Voltage Rated:25V Temperature Coefficient:X5R"
+      },
+      "description": "Capacitance:330nF Tolerance:±10% Tolerance:±10% Voltage Rated:25V Temperature Coefficient:X5R",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "b2885cd826f74b6ca34d4d99a140b17e",
+      "version": "1659040939",
+      "custom_tags": ""
+    },
+    "351f61aeb1474ef5aa66b0cb88a3c93a": {
+      "title": "06036D102KAT2A",
+      "attributes": {
+        "LCSC Part Name": "1nF ±10% 6.3V",
+        "Supplier Part": "C2228689",
+        "Manufacturer": "Kyocera AVX",
+        "Manufacturer Part": "06036D102KAT2A",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210630/E771284EE21E0F270718F23EFAB9C321.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "49ff5bdcf40f4155a302d74cadf9bf8d",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "1nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "6.3V",
+        "Temperature Coefficient": "X5R",
+        "Description": "Capacitance:1nF Tolerance:±10% Tolerance:±10% Voltage Rated:6.3V Temperature Coefficient:X5R"
+      },
+      "description": "Capacitance:1nF Tolerance:±10% Tolerance:±10% Voltage Rated:6.3V Temperature Coefficient:X5R",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a8bcd78f5ed04755968a48d97466220c",
+      "version": "1658160056",
+      "custom_tags": ""
+    },
+    "a14c4ba9ef104cdf98d4778f9c819423": {
+      "title": "0603WAD3300T5E",
+      "attributes": {
+        "LCSC Part Name": "330Ω ±0.5%",
+        "Supplier Part": "C407595",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAD3300T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "a5ac11b528ee49a5a6480d1f87262464",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "330Ω",
+        "Tolerance": "±0.5%",
+        "Power(Watts)": "1/10W",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Type:厚膜电阻 Resistance:330Ω Tolerance:±0.5% Power(Watts):1/10W Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Type:厚膜电阻 Resistance:330Ω Tolerance:±0.5% Power(Watts):1/10W Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "3109881e669e45c4ac6838422177fe5f",
+      "version": "1654895186",
+      "custom_tags": ""
+    },
+    "63e10ddaa81f40df92329442a16d7f35": {
+      "title": "0603WAJ0100T5E",
+      "attributes": {
+        "LCSC Part Name": "10Ω ±5%",
+        "Supplier Part": "C25202",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAJ0100T5E",
+        "Supplier Footprint": "0603",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "00556cc6acd746daa259a802c5f55d60",
+        "Footprint": "171a95cdd4564979b9660f60b4758cb3",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "63,31.5,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "10Ω",
+        "Tolerance": "±5%",
+        "Power(Watts)": "1/10W",
+        "Temperature Coefficient": "±200ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "电阻类型:厚膜电阻;阻值:10Ω;精度:±5%;功率:1/10W;温度系数:±200ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:10Ω;精度:±5%;功率:1/10W;温度系数:±200ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "40a93712f85b478bb2965e2694f70ad2": {
+      "title": "0603WAJ0822T5E",
+      "attributes": {
+        "LCSC Part Name": "8.2KΩ ±5%",
+        "Supplier Part": "C26007",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAJ0822T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C26007_1505895148107980999.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "3ff9eecf0b5c452a85de351b066a32cf",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Tolerance": "±5%",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Power(Watts)": "1/10W",
+        "Value": "8.2kΩ",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Tolerance:±5% Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Power(Watts):1/10W Resistance:8.2kΩ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Tolerance:±5% Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Power(Watts):1/10W Resistance:8.2kΩ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "71541ce75e784b28b2556b7ba7f9f4d2",
+      "version": "1659115271",
+      "custom_tags": ""
+    },
+    "efd836418fb249a999fc35553648d4dd": {
+      "title": "10uF",
+      "attributes": {
+        "LCSC Part Name": "10uF (106) ±20% 16V",
+        "Supplier Part": "C15415",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "10uF",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707675960.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "08f9febb4251482db239cd27cc681a44",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "-",
+        "Tolerance": "-",
+        "Voltage Rated": "-",
+        "Temperature Coefficient": "-",
+        "Description": "Capacitance:- Tolerance:- Tolerance:- Voltage Rated:- Temperature Coefficient:-"
+      },
+      "description": "Capacitance:- Tolerance:- Tolerance:- Voltage Rated:- Temperature Coefficient:-",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "2bd1d2851cf34559b26db34938dff5d1",
+      "version": "1658868184",
+      "custom_tags": ""
+    },
+    "9525b537e08b470d99003e1a33f96778": {
+      "title": "57T_VISHAY_SS34-E3-57T_VISHAY_SS34-E3-57T_0_0",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "e463a6e09b5645209c83745a2d8bab01",
+        "Origin Footprint": "VISHAY_SS34-E3-57T_0",
+        "Symbol": "1511a5d07f7b422887e7ad8daae67e13",
+        "Name": "57T_VISHAY_SS34-E3-57T_VISHAY_SS34-E3-57T_0_0",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "7b78852b27984147b628086095315639": {
+      "title": "5900-104-RC",
+      "attributes": {
+        "LCSC Part Name": "100mH ±10% 70mA 82Ω",
+        "Supplier Part": "C1331167",
+        "Manufacturer": "BOURNS",
+        "Manufacturer Part": "5900-104-RC",
+        "Supplier Footprint": "轴向引线",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210504/664E54634E7A917E79D116AE812D8051.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "deda476ab4b344159d1a7510c5929391",
+        "Designator": "U?",
+        "Footprint": "3c0699ce94de4a78bd65fc8ca54a49d6",
+        "Type": "-",
+        "Value": "100mH",
+        "Tolerance": "±10%",
+        "Rated Current": "70mA",
+        "Current - Saturation (Isat)": "83mA",
+        "DC Resistance": "82Ω",
+        "Q @ Frequency": "-",
+        "Frequency - Self Resonant": "0.08MHz",
+        "Ratings": "-",
+        "3D Model": "f0f6d46b94af427f9902977b3076bdb3",
+        "3D Model Title": "IND-TH_BD12.0-L23.0-P27.00-D1.0",
+        "3D Model Transform": "1102.36,472.23252,0,0,0,0,0,0,-196.85",
+        "Description": "类型:-;电感值:100mH;精度:±10%;额定电流:70mA;饱和电流(Isat):83mA;直流电阻(DCR):82Ω;Q值:-;自谐频率:0.08MHz;车规等级:-;"
+      },
+      "description": "类型:-;电感值:100mH;精度:±10%;额定电流:70mA;饱和电流(Isat):83mA;直流电阻(DCR):82Ω;Q值:-;自谐频率:0.08MHz;车规等级:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "8a040711cfb949c986172c61e7a73dcc",
+      "version": "1651503602",
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Color Ring Inductors/Through Hole Inductors\"]"
+    },
+    "81d81b434e6545f89c941dcb36b7ef0c": {
+      "title": "AC0603DR-071K1L",
+      "attributes": {
+        "LCSC Part Name": "1.1kΩ ±0.5% 100mW",
+        "Supplier Part": "C227453",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "AC0603DR-071K1L",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20191108/C227453_1C4F87D8262EACA1A4242042EC4ADD3F.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "091ccedc937346e3baa2ac81810292b7",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "1.1kΩ",
+        "Tolerance": "±0.5%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Type:厚膜电阻 Resistance:1.1kΩ Tolerance:±0.5% Tolerance:±0.5% Power(Watts):100mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Type:厚膜电阻 Resistance:1.1kΩ Tolerance:±0.5% Tolerance:±0.5% Power(Watts):100mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "4437a575ace546deb070df9bac6bd3a5",
+      "version": "1659114159",
+      "custom_tags": ""
+    },
+    "c90adb1bc96b49fbaf83feb8e6ad7a72": {
+      "title": "AC0603FR-074K12L",
+      "attributes": {
+        "LCSC Part Name": "4.12kΩ ±1%",
+        "Supplier Part": "C227926",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "AC0603FR-074K12L",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20181031/C227926_97BF5E969627AA3273A2AC52951D8062.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "f505d229dee440aa88716b1194a78fed",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Power(Watts)": "100mW",
+        "Value": "4.12kΩ",
+        "Body Length": "-",
+        "Tolerance": "±1%",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "φD": "-",
+        "Body Height": "-",
+        "Body Width": "-",
+        "Type": "厚膜电阻",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Description": "Power(Watts):100mW Resistance:4.12kΩ Body Length:- Tolerance:±1% Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ φD:- Body Height:- Body Width:- Type:厚膜电阻 Temperature Coefficient:±100ppm/℃ Temperatu"
+      },
+      "description": "Power(Watts):100mW Resistance:4.12kΩ Body Length:- Tolerance:±1% Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ φD:- Body Height:- Body Width:- Type:厚膜电阻 Temperature Coefficient:±100ppm/℃ Temperatu",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "c59de9488d49495f9f994d37045d6868",
+      "version": "1659114125",
+      "custom_tags": ""
+    },
+    "a80bf0ffe27248859807ae410393b628": {
+      "title": "AD5932YRUZ",
+      "attributes": {
+        "LCSC Part Name": "AD5932YRUZ",
+        "Supplier Part": "C650304",
+        "Manufacturer": "ADI(亚德诺)/LINEAR",
+        "Manufacturer Part": "AD5932YRUZ",
+        "Supplier Footprint": "TSSOP-16",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20220408/23CA212E17A7AE4AE41E9713E365895E.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "6069df2f28f24f93ad8ff6ea0373ea9d",
+        "Designator": "U?",
+        "Footprint": "0356098211df4b6aa3f1ca3dae79de37",
+        "3D Model": "b0d79b97e3b34f0e897b079842b32384",
+        "3D Model Title": "TSSOP-16_L5.0-W4.4-H1.0-LS6.4-P0.65",
+        "3D Model Transform": "252.188,196.85,0,90,0,0,0,0.005,0",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "dbd827a245c44184b2453afdb505202f",
+      "version": "1656691235",
+      "custom_tags": ""
+    },
+    "6f256077fce74f56a95b76bae6ae6c67": {
+      "title": "AD8051ARTZ-REEL7",
+      "attributes": {
+        "LCSC Part Name": "AD8051ARTZ-REEL7",
+        "Supplier Part": "C578613",
+        "Manufacturer": "ADI(亚德诺)/LINEAR",
+        "Manufacturer Part": "AD8051ARTZ-REEL7",
+        "Supplier Footprint": "SOT-23-5",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200709/C652243_04EEF104E226641E95CF33DAF29A2B46.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "18d1a5753a584a48bba96a798bf5e635",
+        "Footprint": "6b798ff9dad4424595015c815c8eac9c",
+        "3D Model": "0a2a1b8f50944f73965918ad6e5fe167",
+        "3D Model Title": "SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95",
+        "3D Model Transform": "114.2,109.6,0,180,0,0,-0.9,0.9,0",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "d756ee1839e44bf3b4d2d4e3982c1572": {
+      "title": "AD8051ARZ-REEL7",
+      "attributes": {
+        "LCSC Part Name": "AD8051ARZ-REEL7",
+        "Supplier Part": "C208121",
+        "Manufacturer": "ADI(亚德诺)/LINEAR",
+        "Manufacturer Part": "AD8051ARZ-REEL7",
+        "Supplier Footprint": "SOIC-8_150mil",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180524/C208121_DAD7EF31D049706ADA5BD7F6E83863AB.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "44d549d62e7a4947bab98f7dcee7d858",
+        "Footprint": "ba5e94e541ba4386a58d1a22d124146b",
+        "3D Model": "e81d2f7d937b4a6ab1dca543ff5d56a4",
+        "3D Model Title": "SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27",
+        "3D Model Transform": "189.8,236.2,0,0,0,0,0,0,0",
+        "Amplifier Type": "Voltage Feedback",
+        "Number of Circuits": "1",
+        "Gain Bandwidth Product（GBP）": "110MHz(-3dB)",
+        "Slew Rate（SR）": "170 V/us",
+        "Supply Voltage（Single）": "3V~12V,±1.5V~6V",
+        "Iq per channel (Typ)": "-",
+        "Description": "运放类型:Voltage Feedback;放大器组数:1;增益带宽积（GBP）:110MHz(-3dB);压摆率（SR）:170 V/us;电源电压:3V~12V,±1.5V~6V;各通道供电电流:-;"
+      },
+      "description": "运放类型:Voltage Feedback;放大器组数:1;增益带宽积（GBP）:110MHz(-3dB);压摆率（SR）:170 V/us;电源电压:3V~12V,±1.5V~6V;各通道供电电流:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "9073f39ca37e4e708cd116ac031ccc30": {
+      "title": "AD8051ARZ-REEL7_AD8051ARZ-REEL7_",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "30f73fe372e043afad727d361e37cc5e",
+        "Origin Footprint": "SOIC127P600X175-8N",
+        "Symbol": "e51a16f5fb5a442085649c7582c59514",
+        "Name": "AD8051ARZ-REEL7_AD8051ARZ-REEL7_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "ae0935b1555a4efbbd39c3118dacac95": {
+      "title": "AD9833_AD9833BRMZ_",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "da2da13443ab4816b1adb73e5c8819dc",
+        "Origin Footprint": "SOP50P490X110-10N",
+        "Symbol": "25dcfa2ab39a4a0ba1b403cedfb3a521",
+        "Name": "AD9833_AD9833BRMZ_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "8498aee2550543a980016e23db691724": {
+      "title": "AD9833_ASE-25.000MHZ-LC-T_",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "51d1c3c2990c439eaf6570386e5424e3",
+        "Origin Footprint": "ASE24576MHZLCT",
+        "Symbol": "b6b38afbe4034f129d91e0dbe0736c27",
+        "Name": "AD9833_ASE-25.000MHZ-LC-T_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "71d78aea28ed4105b03851abf03150a1": {
+      "title": "AD9833BRMZ-REEL7",
+      "attributes": {
+        "LCSC Part Name": "AD9833BRMZ",
+        "Supplier Part": "C9652",
+        "Manufacturer": "ADI(亚德诺)/LINEAR",
+        "Manufacturer Part": "AD9833BRMZ-REEL7",
+        "Supplier Footprint": "MSOP-10",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20121029/1457706544172.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "952bfaa131a34b85b8f5cb021e348e15",
+        "Footprint": "3559b0b1542c454a990cf7a859c44512",
+        "3D Model": "b42a31f9e1fa4643bc7ea573b9bba7ed",
+        "3D Model Title": "MSOP-10_L3.0-W3.0-H1.1-LS5.0-P0.50",
+        "3D Model Transform": "118.1,196.9,0,0,0,0,0,0,0",
+        "Resolution (Bits)": "10 b",
+        "Master fclk": "25MHz",
+        "Tuning Word Width (Bits)": "28 b",
+        "Supply Voltage": "2.3V ~ 5.5V",
+        "Operating Temperature": "-40℃~105℃",
+        "Description": "分辨率（位）:10 b;主 fclk:25MHz;字宽调谐（位）:28 b;电源电压:2.3V ~ 5.5V;"
+      },
+      "description": "分辨率（位）:10 b;主 fclk:25MHz;字宽调谐（位）:28 b;电源电压:2.3V ~ 5.5V;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "a199e61a118d481fb012efe767e86413": {
+      "title": "ADA4891-2ARMZ",
+      "attributes": {
+        "LCSC Part Name": "ADA4891-2ARMZ",
+        "Supplier Part": "C654277",
+        "Manufacturer": "ADI(亚德诺)/LINEAR",
+        "Manufacturer Part": "ADA4891-2ARMZ",
+        "Supplier Footprint": "MSOP-8",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.comnull",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "14806617624d464ebd0f602110abcca4",
+        "Designator": "U?",
+        "Footprint": "8e5d79cfb9b7491ebf7e26ecb3ba902a",
+        "3D Model": "0d61484c2b2f403fbec30fc27e0c9c52",
+        "3D Model Title": "MSOP-8_L3.0-W3.0-H1.1-LS4.9-P0.65",
+        "3D Model Transform": "196.85,118.11,0,90,0,0,0,0,0",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "6c8049a9902a4181bd3608fee82d5fb9",
+      "version": "1649752971",
+      "custom_tags": ""
+    },
+    "9a1628fa11374174ba041ff0141a7ea8": {
+      "title": "AECR0603F10R0K9",
+      "attributes": {
+        "LCSC Part Name": "10Ω(10R0) ±1%",
+        "Supplier Part": "C328336",
+        "Manufacturer": "RESI(开步睿思）",
+        "Manufacturer Part": "AECR0603F10R0K9",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20181108/C328336_7F97AA7421A04DB2884B9ED2962080EA.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "45d717df03734c809e39901d0c3d04ec",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Temperature Coefficient": "±250ppm/℃",
+        "Overload Voltage (Max)": "50V",
+        "Body Length": "-",
+        "Tolerance": "±1%",
+        "φD": "-",
+        "Body Height": "-",
+        "Body Width": "-",
+        "Type": "厚膜电阻",
+        "Value": "10Ω",
+        "Operating Temperature Range": "-55℃~+125℃",
+        "Power(Watts)": "100mW",
+        "Description": "Temperature Coefficient:±250ppm/℃ Temperature Coefficient:±250ppm/℃ Overload Voltage (Max):50V Body Length:- Tolerance:±1% φD:- Body Height:- Body Width:- Type:厚膜电阻 Resistance:10Ω Operating Temperature Range:-55℃~+125℃ Operating Temperature Range:-55℃~+12"
+      },
+      "description": "Temperature Coefficient:±250ppm/℃ Temperature Coefficient:±250ppm/℃ Overload Voltage (Max):50V Body Length:- Tolerance:±1% φD:- Body Height:- Body Width:- Type:厚膜电阻 Resistance:10Ω Operating Temperature Range:-55℃~+125℃ Operating Temperature Range:-55℃~+12",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "08b7dcb6e5274c5cb7312f31891fb828",
+      "version": "1659114174",
+      "custom_tags": ""
+    },
+    "a0344607b69b4c41b9654de9a5cac7b0": {
+      "title": "AF0603FR-071K5L",
+      "attributes": {
+        "LCSC Part Name": "1.5KΩ ±1%",
+        "Supplier Part": "C144088",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "AF0603FR-071K5L",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171228/C144088_15144470939861214783.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "80ce69fbfe3a401ea0cbc046dd89d079",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Value": "1.5kΩ",
+        "Body Length": "-",
+        "Tolerance": "±1%",
+        "Body Height": "-",
+        "Body Width": "-",
+        "Type": "抗硫化芯片固定电阻",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Power(Watts)": "100mW",
+        "Description": "Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ Resistance:1.5kΩ Body Length:- Tolerance:±1% Body Height:- Body Width:- Type:抗硫化芯片固定电阻 Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100p"
+      },
+      "description": "Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ Resistance:1.5kΩ Body Length:- Tolerance:±1% Body Height:- Body Width:- Type:抗硫化芯片固定电阻 Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100p",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "9dcada375bea465ab0c1b296d8cc91d8",
+      "version": "1656103273",
+      "custom_tags": ""
+    },
+    "fc5e01d91ec7437993e5c501d2a9c845": {
+      "title": "B82144A2107J000",
+      "attributes": {
+        "LCSC Part Name": "100mH ±5% 20mA 420Ω",
+        "Supplier Part": "C1329510",
+        "Manufacturer": "TDK",
+        "Manufacturer Part": "B82144A2107J000",
+        "Supplier Footprint": "轴向引线",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210503/C1329510_9169D817DBACD770923B52BDEB1321FF.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "adcdc9b3ce39436ba8edbd40b5a5a238",
+        "Designator": "U?",
+        "Footprint": "6cee46f08ab44f78ac41f035da68e4ed",
+        "Type": "色环电感",
+        "Value": "100mH",
+        "Tolerance": "±5%",
+        "Rated Current": "20mA",
+        "Current - Saturation (Isat)": "-",
+        "DC Resistance": "420Ω",
+        "Q @ Frequency": "30@0.0796MHz",
+        "Frequency - Self Resonant": "0.12MHz",
+        "Ratings": "-",
+        "Description": "类型:色环电感;电感值:100mH;精度:±5%;额定电流:20mA;饱和电流(Isat):-;直流电阻(DCR):420Ω;Q值:30@0.0796MHz;自谐频率:0.12MHz;车规等级:-;"
+      },
+      "description": "类型:色环电感;电感值:100mH;精度:±5%;额定电流:20mA;饱和电流(Isat):-;直流电阻(DCR):420Ω;Q值:30@0.0796MHz;自谐频率:0.12MHz;车规等级:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "90117b970a054e38be11b14c9dd71ace",
+      "version": "1654897219",
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Through Hole Inductors\"]"
+    },
+    "6234b617ba464fe596f5400ae02b9dac": {
+      "title": "BKH1005LM182-T",
+      "attributes": {
+        "LCSC Part Name": "1.8kΩ@100MH ±25%",
+        "Supplier Part": "C2661458",
+        "Manufacturer": "TAIYO YUDEN(太诱)",
+        "Manufacturer Part": "BKH1005LM182-T",
+        "Supplier Footprint": "0402",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.comnull",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d25d0f5a6055405c92d2c445f6357413",
+        "Designator": "L?",
+        "Footprint": "c0910de80a974f4892720d4855d3fb4b",
+        "3D Model": "d8d36575a3234d4790bfa765c88664a7",
+        "3D Model Title": "L0402_L1.0-W0.5-H0.5_BEAD",
+        "3D Model Transform": "39.37,19.685,0,0,0,0,0,0.0005,0",
+        "Impedance @ Frequency": "1.8kΩ@100MH",
+        "Tolerance": "±25%",
+        "DC Resistance": "2Ω",
+        "Current Rating": "0.2A",
+        "Description": "标称阻抗@测试频率:1.8kΩ@100MH;误差:±25%;直流电阻(RDC):2Ω;额定电流:0.2A;"
+      },
+      "description": "标称阻抗@测试频率:1.8kΩ@100MH;误差:±25%;直流电阻(RDC):2Ω;额定电流:0.2A;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "c17a6a2c68a3459590dbae60b423f0dc",
+      "version": "1658435048",
+      "custom_tags": "[\"Bead/Filter/EMI Optimization\",\"Ferrite Beads\"]"
+    },
+    "eeba68814b98462e81c90355741079ad": {
+      "title": "C0603C102K1RAC3083",
+      "attributes": {
+        "LCSC Part Name": "1nF ±10% 100V",
+        "Supplier Part": "C561818",
+        "Manufacturer": "KEMET(基美)",
+        "Manufacturer Part": "C0603C102K1RAC3083",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200618/C599608_2B9CFB7169FD5127D28BF69D59417288.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "3b61f408e2b64b1f998c996a41722de3",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "1nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "100V",
+        "Temperature Coefficient": "X7R",
+        "Description": "Capacitance:1nF Tolerance:±10% Tolerance:±10% Voltage Rated:100V Temperature Coefficient:X7R"
+      },
+      "description": "Capacitance:1nF Tolerance:±10% Tolerance:±10% Voltage Rated:100V Temperature Coefficient:X7R",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "d866ba7baaaf4cf59b466e4d17d29e5d",
+      "version": "1659041020",
+      "custom_tags": ""
+    },
+    "31db4015e629444383d56cc3b257bde9": {
+      "title": "C0603C200J5GACAUTO",
+      "attributes": {
+        "LCSC Part Name": "20pF ±5% 50V 汽车级",
+        "Supplier Part": "C129624",
+        "Manufacturer": "KEMET(基美)",
+        "Manufacturer Part": "C0603C200J5GACAUTO",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180612/C129624_0C7DB8E916B268CAE775DDA6DDBB0A83.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "0acc27d5dabd4b8bb85eaa96750ce4b8",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "20pF",
+        "Tolerance": "±5%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "C0G",
+        "Description": "Capacitance:20pF Tolerance:±5% Tolerance:±5% Voltage Rated:50V Temperature Coefficient:C0G"
+      },
+      "description": "Capacitance:20pF Tolerance:±5% Tolerance:±5% Voltage Rated:50V Temperature Coefficient:C0G",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "56f2ec1624b14897bc2a72e2b1800ffb",
+      "version": "1657743672",
+      "custom_tags": ""
+    },
+    "c92f6acf977d49a894da9026abc1313d": {
+      "title": "CA45A-B-6.3V-100uF-K",
+      "attributes": {
+        "LCSC Part Name": "100uF ±10% 6.3V",
+        "Supplier Part": "C166700",
+        "Manufacturer": "CEC(振华新云)",
+        "Manufacturer Part": "CA45A-B-6.3V-100uF-K",
+        "Supplier Footprint": "CASE-B_3528",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180125/C166700_15168650483141302948.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "29e02c7630ca475391514a41b1f039f6",
+        "Footprint": "74fc26479b62478a815cdb9223880502",
+        "3D Model": "0dfcda272f9b43668c6086d3a08712ba",
+        "3D Model Title": "CASE-B_L3.5-W2.8-H1.9",
+        "3D Model Transform": "145.7,110.2,0,180,0,0,0,0,0",
+        "Value": "100uF",
+        "Tolerance": "±10%",
+        "Rated Voltage": "6.3V",
+        "Equivalent Series Resistance(ESR)": "3Ω@100kHz",
+        "Operating Temperature": "-55℃~+125℃",
+        "Description": "容值:100uF;精度:±10%;额定电压:6.3V;等效串联电阻:3Ω@100kHz;工作温度:-55℃~+125℃;"
+      },
+      "description": "容值:100uF;精度:±10%;额定电压:6.3V;等效串联电阻:3Ω@100kHz;工作温度:-55℃~+125℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "c9a41187336143d4ae3b98a7919d7179": {
+      "title": "CAY10-101J4LF",
+      "attributes": {
+        "LCSC Part Name": "100Ω ±5%",
+        "Supplier Part": "C1731020",
+        "Manufacturer": "BOURNS",
+        "Manufacturer Part": "CAY10-101J4LF",
+        "Supplier Footprint": "0804",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210701/33D109F3D55875C4FE0151665CA301E2.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "19ff8b022b894f2dad221d1db0af45a0",
+        "Footprint": "60c93b94399f438fbc33634da96420a3",
+        "3D Model": "c73c1b4537554dbf84311e410824d6fd",
+        "3D Model Title": "RES-ARRAY-SMD_0804-8P-L2.0-W1.0-H0.4-BL",
+        "3D Model Transform": "78.7,39.4,0,0,0,0,0,0,0",
+        "Value": "100Ω",
+        "Tolerance": "±5%",
+        "Power(Watts)": "62.5mW",
+        "Temperature Coefficient": "±200ppm/℃",
+        "Number of Resistors": "4",
+        "Number of Pins": "8",
+        "Description": "阻值:100Ω;精度:±5%;单个元件功率:62.5mW;温度系数:±200ppm/℃;电阻器数:4;引脚数:8;"
+      },
+      "description": "阻值:100Ω;精度:±5%;单个元件功率:62.5mW;温度系数:±200ppm/℃;电阻器数:4;引脚数:8;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "e7f474bdaa2648f3a2e999766e191d23": {
+      "title": "CGA3E2X7R1H103KT0Y0N",
+      "attributes": {
+        "LCSC Part Name": "10nF ±10% 50V",
+        "Supplier Part": "C342901",
+        "Manufacturer": "TDK",
+        "Manufacturer Part": "CGA3E2X7R1H103KT0Y0N",
+        "Supplier Footprint": "0603",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20181206/C342901_F6EECDC8D39E0B6A1C9AD9B1534493E6.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "2967f015b719409f818cad7a6ae1133e",
+        "Footprint": "14a96cf1902e4b8bb371729d4387a700",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "X7R",
+        "Description": "容值:10nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      },
+      "description": "容值:10nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "b8a5173f583842a49b3474cedc3455c2": {
+      "title": "CL10A104KA8NNNC",
+      "attributes": {
+        "LCSC Part Name": "100nF(104) ±10% 25V",
+        "Supplier Part": "C2762593",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A104KA8NNNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210324/C2762589_7BF9DDC6F82E59C80AA3A1EB28033169.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ab570e5a6ce144ee896e35331d7495e3",
+        "Designator": "C?",
+        "Footprint": "e9c33e8a257f4ebda39091597f247f40",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "25V",
+        "Temperature Coefficient": "-",
+        "Description": "Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rated:25V Temperature Coefficient:-"
+      },
+      "description": "Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rated:25V Temperature Coefficient:-",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "9f645f7185ea47859241126dcaa6221b",
+      "version": "1659041021",
+      "custom_tags": ""
+    },
+    "8209851fe1134aa8a8f4792111dafad5": {
+      "title": "CL10A104KA8NNNC",
+      "attributes": {
+        "LCSC Part Name": "100nF(104) ±10% 25V",
+        "Supplier Part": "C2762593",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A104KA8NNNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210324/C2762589_7BF9DDC6F82E59C80AA3A1EB28033169.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ab570e5a6ce144ee896e35331d7495e3",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "25V",
+        "Temperature Coefficient": "-",
+        "Description": "Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rated:25V Temperature Coefficient:-"
+      },
+      "description": "Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rated:25V Temperature Coefficient:-",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "9f645f7185ea47859241126dcaa6221b",
+      "version": "1659041021",
+      "custom_tags": ""
+    },
+    "b19c3948511b4a158a45b19633554097": {
+      "title": "CL10B104KA8NNNC",
+      "attributes": {
+        "LCSC Part Name": "100nF ±10% 25V",
+        "Supplier Part": "C1590",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10B104KA8NNNC",
+        "Supplier Footprint": "0603",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707680294.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e415eb6e0d46479cbc09fe6c84bd6835",
+        "Footprint": "14a96cf1902e4b8bb371729d4387a700",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "25V",
+        "Temperature Coefficient": "X7R",
+        "Description": "容值:100nF;精度:±10%;额定电压:25V;温度系数:X7R;"
+      },
+      "description": "容值:100nF;精度:±10%;额定电压:25V;温度系数:X7R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "642b63512b354a258c36c256d9fd5761": {
+      "title": "CMI453215U1R0KT",
+      "attributes": {
+        "LCSC Part Name": "1uH ±10% 650mA 550mΩ",
+        "Supplier Part": "C75658",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "CMI453215U1R0KT",
+        "Supplier Footprint": "1812",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180412/C75658_4C5A041D89D45999EAC10E78490E9807.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "aee6a4ceec4b4f99a827004c05ca676c",
+        "Footprint": "d0a42977274b4ace90f34aa488289bdf",
+        "3D Model": "ba2fb4bb335b48f8bd939d2b504d2b42",
+        "3D Model Title": "L1812_L4.5-W3.2-H3.2",
+        "3D Model Transform": "177.165,125.984,0,0,0,0,0,0,0",
+        "Value": "1uH",
+        "Tolerance": "±10%",
+        "Rated Current": "650mA",
+        "Saturation Current (Isat)": "-",
+        "DC Resistance (DCR)": "550mΩ",
+        "Q @ Freq": "35@10MHz",
+        "Frequency - Self Resonant": "50MHz",
+        "Ratings": "-",
+        "Description": "电感值:1uH;精度:±10%;额定电流:650mA;饱和电流(Isat):-;直流电阻(DCR):550mΩ;"
+      },
+      "description": "电感值:1uH;精度:±10%;额定电流:650mA;饱和电流(Isat):-;直流电阻(DCR):550mΩ;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "dae182202d434463afbe1bc2b378dac6": {
+      "title": "CR-03FA7---33R",
+      "attributes": {
+        "LCSC Part Name": "33Ω ±1% 100mW",
+        "Supplier Part": "C285214",
+        "Manufacturer": "Viking(光颉)",
+        "Manufacturer Part": "CR-03FA7---33R",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200107/C285214_CAADC0728AA8EEC5AAB633A0E2296043.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d0725c4a0c62462584d39536e843f4b5",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "33Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Type:厚膜电阻 Resistance:33Ω Tolerance:±1% Tolerance:±1% Power(Watts):100mW Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Type:厚膜电阻 Resistance:33Ω Tolerance:±1% Tolerance:±1% Power(Watts):100mW Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "b5d124aeceb94db8953cc0d6f026c02e",
+      "version": "1659104498",
+      "custom_tags": ""
+    },
+    "52326f07ff2e4d9c82a366124bb69c3d": {
+      "title": "CR0603D33R0P05Z",
+      "attributes": {
+        "LCSC Part Name": "33Ω ±0.5%",
+        "Supplier Part": "C332114",
+        "Manufacturer": "EVER OHMS(天二科技)",
+        "Manufacturer Part": "CR0603D33R0P05Z",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190415/C332114_E24D5E81DBDDF6DA1FB7D1072F5C5078.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "24537f119ff34dfc92e4fe194e84a625",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "33Ω",
+        "Tolerance": "±0.5%",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Power(Watts)": "100mW",
+        "Type": "厚膜电阻",
+        "Overload Voltage (Max)": "50V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Resistance:33Ω Tolerance:±0.5% Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Power(Watts):100mW Type:厚膜电阻 Overload Voltage (Max):50V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Resistance:33Ω Tolerance:±0.5% Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Power(Watts):100mW Type:厚膜电阻 Overload Voltage (Max):50V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "031cd9d263be4d85a9088ccc71e1dec9",
+      "version": "1659115279",
+      "custom_tags": ""
+    },
+    "91f996c944d54f7dbdf50c6d7ae0d949": {
+      "title": "CR0603FA4700G",
+      "attributes": {
+        "LCSC Part Name": "470Ω ±1% 100mW",
+        "Supplier Part": "C101061",
+        "Manufacturer": "LIZ(丽智电子)",
+        "Manufacturer Part": "CR0603FA4700G",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170408/1491631380525.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "edffa6120be144aaa14f53a652b429a6",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "470Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "50V",
+        "Operating Temperature Range": "-55℃~+125℃",
+        "Description": "Type:厚膜电阻 Resistance:470Ω Tolerance:±1% Tolerance:±1% Power(Watts):100mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):50V Operating Temperature Range:-55℃~+125℃ Operating Temperature Range:-55℃~+125℃"
+      },
+      "description": "Type:厚膜电阻 Resistance:470Ω Tolerance:±1% Tolerance:±1% Power(Watts):100mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):50V Operating Temperature Range:-55℃~+125℃ Operating Temperature Range:-55℃~+125℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "845a2a508893433fbe13b37ddb078b3d",
+      "version": "1659115268",
+      "custom_tags": ""
+    },
+    "5354a279e1e745f58856fdcfc529f7c8": {
+      "title": "ERJ3GEYJ473V",
+      "attributes": {
+        "LCSC Part Name": "47kΩ ±5% 100mW",
+        "Supplier Part": "C278642",
+        "Manufacturer": "PANASONIC(松下)",
+        "Manufacturer Part": "ERJ3GEYJ473V",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190115/C278642_D322B902C6AB221551F2D6BC03A8E443.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "521ccf2a471f4e3c9d633a35c1196e90",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "47kΩ",
+        "Tolerance": "±5%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±200ppm/℃",
+        "Overload Voltage (Max)": "-",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Resistance:47kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Temperature Coefficient:±200ppm/℃ Temperature Coefficient:±200ppm/℃ Overload Voltage (Max):- Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Resistance:47kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Temperature Coefficient:±200ppm/℃ Temperature Coefficient:±200ppm/℃ Overload Voltage (Max):- Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "d3c57e3f9f4c4967a82c93f95a92bc32",
+      "version": "1659115278",
+      "custom_tags": ""
+    },
+    "25cfc1bd7ac348688ad3b9cb7f55b791": {
+      "title": "FN18N200J500PSG",
+      "attributes": {
+        "LCSC Part Name": "20pF ±5% 50V",
+        "Supplier Part": "C525243",
+        "Manufacturer": "PSA(信昌电陶)",
+        "Manufacturer Part": "FN18N200J500PSG",
+        "Supplier Footprint": "0603",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200506/C436246_4EAA78C9048D88437BAF2CB7B8BE45FD.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "071b9ce504ab4e6d8bd9e12226c1d24f",
+        "Footprint": "14a96cf1902e4b8bb371729d4387a700",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "20pF",
+        "Tolerance": "±5%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "C0G",
+        "Description": "容值:20pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      },
+      "description": "容值:20pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "2e2364a804b4405b85a8d186dbe09055": {
+      "title": "GRM188C71C475KE21D",
+      "attributes": {
+        "LCSC Part Name": "4.7uF ±10% 16V",
+        "Supplier Part": "C237615",
+        "Manufacturer": "muRata(村田)",
+        "Manufacturer Part": "GRM188C71C475KE21D",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20181224/C237615_095655727BB916C0D7DE5C9296C79764.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "b2cbdc67101641f99490f03c5d6873fd",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "4.7uF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "16V",
+        "Temperature Coefficient": "X7S",
+        "Description": "Capacitance:4.7uF Tolerance:±10% Tolerance:±10% Voltage Rated:16V Temperature Coefficient:X7S"
+      },
+      "description": "Capacitance:4.7uF Tolerance:±10% Tolerance:±10% Voltage Rated:16V Temperature Coefficient:X7S",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a8e12b4a81704bd1a30c842f94463c17",
+      "version": "1659041012",
+      "custom_tags": ""
+    },
+    "edde7fc6f42345bb86244c40d4da553c": {
+      "title": "GRM31CR60J476KE19L",
+      "attributes": {
+        "LCSC Part Name": "47uF(476) ±10% 6.3V NRND物料(将停产)",
+        "Supplier Part": "C97948",
+        "Manufacturer": "muRata(村田)",
+        "Manufacturer Part": "GRM31CR60J476KE19L",
+        "Supplier Footprint": "1206",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180228/C97948_15198056976331377708.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "b1455afdbde64cf0aa1aedef094497c2",
+        "Designator": "C?",
+        "Footprint": "a12bcdb824e9400b83c13cd1f3ed5b4b",
+        "3D Model": "02d7240ddd1f4fa09203e2ae369f23c6",
+        "3D Model Title": "C1206_L3.2-W1.6-H1.3",
+        "3D Model Transform": "125.984,62.992,0,0,0,0,0,0,0",
+        "Temperature Coefficient": "X5R",
+        "Voltage Rated": "6.3V",
+        "Value": "47uF",
+        "Tolerance": "±10%",
+        "Description": "Temperature Coefficient:X5R Voltage Rated:6.3V Capacitance:47uF Tolerance:±10% Tolerance:±10%"
+      },
+      "description": "Temperature Coefficient:X5R Voltage Rated:6.3V Capacitance:47uF Tolerance:±10% Tolerance:±10%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "20ce308571ea46f580277954421dcffe",
+      "version": "1659076805",
+      "custom_tags": ""
+    },
+    "e59bc7fd16ff450c8c1da6869401295b": {
+      "title": "Ground-AGND",
+      "attributes": {
+        "Symbol": "07c26ee051fc405ba93792f390eee108",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "148a9abf1a034fb89df462e63c7e875e",
+      "version": "1649575342",
+      "custom_tags": ""
+    },
+    "14bdc5d1b87d4f068d05c9f4ff3a9ef6": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Symbol": "83f451c049854ae8968d99eea3276fd9"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "a0a5dfb736684b0382dc7737d6ec12fc": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Symbol": "cd5df5ad6e3e4cc594edc771d019068e",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "2e4e71fea06848c9a86eef0ed6338204",
+      "version": "1649575370",
+      "custom_tags": ""
+    },
+    "c0eae3df211e4412ac21ce5e0638d835": {
+      "title": "Ground-PGND",
+      "attributes": {
+        "Symbol": "d5a3e31c10994d7db1df0dace16c68ce"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "599e5615677d4b8baea5c9c190955962": {
+      "title": "HDR-M_2.54_2x3",
+      "attributes": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "08d51be9866744b0a8f75b77d10f5645",
+        "Designator": "H?",
+        "Supplier Footprint": "Through",
+        "3D Model": "9bdc92b9101741018d26885598adf349",
+        "3D Model Title": "HDR2.54-M-LI-2x3P",
+        "3D Model Transform": "300,200,452.76,0,0,0,0,0,-120",
+        "Footprint": "a1c2c0b96ce949acae7f3bf6711ef302",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "089f45934d594e2aa3eabaee7cada3e5",
+      "version": "1657093759",
+      "custom_tags": ""
+    },
+    "228265699be64351aaabf29b501e24ae": {
+      "title": "HDR-M_2.54_2x4",
+      "attributes": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "b8968d38ef114b1ba8748e1b5053cd79",
+        "Designator": "H?",
+        "Supplier Footprint": "Through",
+        "3D Model": "47b5ce995b664298ab05f1b74b77106f",
+        "3D Model Title": "HDR-TH_8P-P2.54-M-LI-2X4P",
+        "3D Model Transform": "400,200,454.33,0,0,0,0,0,-120",
+        "Footprint": "617cf62d0406418cb266f7d2fd56afdc",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "f4366ab82065427487137a5646d62de2",
+      "version": "1657093690",
+      "custom_tags": ""
+    },
+    "25c7f4bfe0434023aa62cb9a98606b47": {
+      "title": "Inductor_L_MOLDED-1812(4532-METRIC)",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "7e4b75fe55dd465cac52a817a0d42ff1",
+        "Origin Footprint": "INDM4532X340",
+        "Symbol": "d300e9edb51c4585a97bf51f56a531a7",
+        "Name": "Inductor_L_MOLDED-1812(4532-METRIC)",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "67d2a609880f4011a49feddf80f7f9ed": {
+      "title": "MBR0520",
+      "attributes": {
+        "LCSC Part Name": "20V 500mA 450mV@500mA",
+        "Supplier Part": "C77335",
+        "Manufacturer": "CJ（江苏长电/长晶）",
+        "Manufacturer Part": "MBR0520",
+        "Supplier Footprint": "SOD-123",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "2b9d153881e44e858e61ba4403c64f14",
+        "Designator": "D?",
+        "Footprint": "0f863e6b420f4c3fb779fad01155401a",
+        "3D Model": "560a7cf99d0e44cb9af362aaf5d7923d",
+        "3D Model Title": "SOD-123_L2.8-W1.8-LS3.7-RD",
+        "3D Model Transform": "144.8816,62.992,0,0,0,0,0,0,0",
+        "Reverse Voltage (Vr)": "20V",
+        "Average Rectified Current (Io)": "500mA",
+        "Forward Voltage (Vf@If)": "450mV@500mA",
+        "Description": "Reverse Voltage (Vr):20V Average Rectified Current (Io):500mA Forward Voltage (Vf@If):450mV@500mA"
+      },
+      "description": "Reverse Voltage (Vr):20V Average Rectified Current (Io):500mA Forward Voltage (Vf@If):450mV@500mA",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "225bc629dfe14ff5a2fb0bb077fc6276",
+      "version": "1655151728",
+      "custom_tags": ""
+    },
+    "37ecb870a3a34ab6b681476690f65501": {
+      "title": "MCP41010-I:SN_MCP41010-I/SN_",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "fb89b5c49b8944ce9c60cdbe3ca51c60",
+        "Origin Footprint": "SOIC8-N_MC_MCH",
+        "Symbol": "bfd102188c4545e6a016ab517852b704",
+        "Name": "MCP41010-I:SN_MCP41010-I/SN_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "a9a61ad966f644309741a276a4d540c8": {
+      "title": "MCP41010T-I/SN",
+      "attributes": {
+        "LCSC Part Name": "MCP41010T-I/SN",
+        "Supplier Part": "C136395",
+        "Manufacturer": "MICROCHIP(美国微芯)",
+        "Manufacturer Part": "MCP41010T-I/SN",
+        "Supplier Footprint": "SOIC-8",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171018/C136395_15083234906061043046.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "832831143b6840af88aee5b4347341a8",
+        "Footprint": "e3358f423779446d879644df95b76893",
+        "3D Model": "e81d2f7d937b4a6ab1dca543ff5d56a4",
+        "3D Model Title": "SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27",
+        "3D Model Transform": "189.8,236.2,0,0,0,0,0,0,0",
+        "Taper": "-",
+        "Configuration": "-",
+        "Number of Circuits": "-",
+        "Number of Taps": "-",
+        "Resistance (Ohms)": "-",
+        "Interface": "-",
+        "Memory Type": "-",
+        "Supply Voltage": "-",
+        "Tolerance": "-",
+        "Temperature Coefficient (Typ)": "-",
+        "Resistance - Wiper (Ohms) (Typ)": "-",
+        "Operating Temperature": "-",
+        "Description": "圆锥:-;配置:-;电路数:-;电阻值（欧姆）:-;存储器类型:-;温度系数（典型值）:-;"
+      },
+      "description": "圆锥:-;配置:-;电路数:-;电阻值（欧姆）:-;存储器类型:-;温度系数（典型值）:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "8f47c4d58bd84e0b927fcb30624fd613": {
+      "title": "MCR03EZPFX4021",
+      "attributes": {
+        "LCSC Part Name": "4.02kΩ ±1% 100mW",
+        "Supplier Part": "C308257",
+        "Manufacturer": "ROHM(罗姆)",
+        "Manufacturer Part": "MCR03EZPFX4021",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180927/C308257_7CA5940A79B3D13F986C9068A50EC047.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "fcb4a85625bf4fef9c25268061167eda",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "4.02kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "50V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Type:厚膜电阻 Resistance:4.02kΩ Tolerance:±1% Tolerance:±1% Power(Watts):100mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):50V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Type:厚膜电阻 Resistance:4.02kΩ Tolerance:±1% Tolerance:±1% Power(Watts):100mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Overload Voltage (Max):50V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "7f5766b4a6024cb1af8999ab85399052",
+      "version": "1659104499",
+      "custom_tags": ""
+    },
+    "784f2337fd864ceba22669d43b35cc2f": {
+      "title": "MIC5225-3.3YM5-TR",
+      "attributes": {
+        "LCSC Part Name": "MIC5225-3.3YM5-TR",
+        "Supplier Part": "C512101",
+        "Manufacturer": "MICROCHIP(美国微芯)",
+        "Manufacturer Part": "MIC5225-3.3YM5-TR",
+        "Supplier Footprint": "SOT-23-5",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200413/C512101_F5C0F3AED6CD09592E1975F2BB445A54.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "93ce54ff79a44b52ab81ae987d191573",
+        "Designator": "U?",
+        "Footprint": "9de788f6d33a44dbb80cfff4a7061745",
+        "3D Model": "3168b22659ce4998ae232d44bb704e0a",
+        "3D Model Title": "SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95",
+        "3D Model Transform": "114.173,109.636,0,180,0,0,-0.863,0.863,0",
+        "Output Type": "-",
+        "Description": "Output Type:-"
+      },
+      "description": "Output Type:-",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "24a79c8e21044835a74702f52ae44750",
+      "version": "1658349199",
+      "custom_tags": ""
+    },
+    "c16d88064fd043a4b2c2a2caedf6edf7": {
+      "title": "Netport-IN",
+      "attributes": {
+        "Symbol": "fef18713fad642b1bd89828d7757c7ba"
+      },
+      "description": "Netport-IN",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "f809bdc6bbd34113bf8d3de48be6b53d": {
+      "title": "Netport-OUT",
+      "attributes": {
+        "Symbol": "f77154e5513b45bda7515481e62411c7"
+      },
+      "description": "Netport-OUT",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "6f29bcfdd1724c2f8671b301c824d551": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "0c904951ec2a409b930c612ad9c1172f"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "21a67e238e13461ab2da135e373f55c4": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "ee075c9591754a62a9207dfbc2b85ca7",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "7737efc32ff44ecb8cf68152f3fbd014",
+      "version": "1649575525",
+      "custom_tags": ""
+    },
+    "37435cc1e806439eb43fb01e248d508b": {
+      "title": "Q22FA12800345",
+      "attributes": {
+        "LCSC Part Name": "50MHz ±10ppm 8pF",
+        "Supplier Part": "C255901",
+        "Manufacturer": "EPSON(爱普生)",
+        "Manufacturer Part": "Q22FA12800345",
+        "Supplier Footprint": "SMD2016-4P",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180822/C255901_8E0AFBA406FEDAEAC9B2913D0F1BB689.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "37ebd3a68a3f4b4b9467598889d244d0",
+        "Designator": "X?",
+        "Footprint": "6ca66e698ee4454482bdf6aa5625642c",
+        "3D Model": "504241fbd65a45e0a86be0dc90c836ee",
+        "3D Model Title": "OSC-SMD_4P-L2.0-W1.6-H0.8",
+        "3D Model Transform": "78.74,62.992,0,0,0,0,0,0,0",
+        "Crystal Type": "贴片无源晶振",
+        "Value": "50MHz",
+        "Frequency Tolerance": "±10ppm",
+        "Frequency Stability": "-",
+        "Load Capacitance": "8pF",
+        "Equivalent Series Resistance (ESR)": "60Ω",
+        "Operating Temperature": "-40℃~+85℃",
+        "Description": "Crystal Type:贴片无源晶振 Frequency:50MHz Frequency Tolerance:±10ppm Frequency Tolerance:±10ppm Frequency Stability:- Frequency Stability:- Load Capacitance:8pF Equivalent Series Resistance (ESR):60Ω Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+8"
+      },
+      "description": "Crystal Type:贴片无源晶振 Frequency:50MHz Frequency Tolerance:±10ppm Frequency Tolerance:±10ppm Frequency Stability:- Frequency Stability:- Load Capacitance:8pF Equivalent Series Resistance (ESR):60Ω Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+8",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "2e4ed8c738bd49e0be21ebdea17b827e",
+      "version": "1654893424",
+      "custom_tags": ""
+    },
+    "d052938b78454cb4a155e9498eee725d": {
+      "title": "Q33310F70032100",
+      "attributes": {
+        "LCSC Part Name": "25MHz 3.3V",
+        "Supplier Part": "C32526",
+        "Manufacturer": "EPSON(爱普生)",
+        "Manufacturer Part": "Q33310F70032100",
+        "Supplier Footprint": "SMD3225-4P",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478747426371.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "8c35b5ee241741fcb1b94dc8b55e144d",
+        "Footprint": "27435adc00004536899ab7f48bc44915",
+        "3D Model": "ae22b8d143894765bc8100c37cb6356f",
+        "3D Model Title": "OSC-SMD_4P-L3.2-W2.5-H1.0",
+        "3D Model Transform": "125.984,98.425,0,0,0,0,0,0.005,0",
+        "Value": "25MHz",
+        "Supply Voltage": "3.3V",
+        "Supply Current (Max)": "2.5mA",
+        "Operating Temperature": "-40℃~+85℃",
+        "Description": "频率:25MHz;工作电压:3.3V;供电电流:2.5mA;工作温度:-40℃~+85℃;"
+      },
+      "description": "频率:25MHz;工作电压:3.3V;供电电流:2.5mA;工作温度:-40℃~+85℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "079d5261f8f54255afe031060b9c1b2f": {
+      "title": "resistors_?**4(1206)_330",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "",
+        "Origin Footprint": "R-0603-X4",
+        "Symbol": "0fbb9db4591140c5a2c8d6e762ff36b3",
+        "Name": "resistors_?**4(1206)_330",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "b66b140379454926a004942191f4d9e4": {
+      "title": "resistors_?**4(1206)_330_R-0603-X4",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "0c32f0ee4531435cbfd1a6ed8e1d8d00",
+        "Origin Footprint": "R-0603-X4",
+        "Symbol": "0fbb9db4591140c5a2c8d6e762ff36b3",
+        "Name": "resistors_?**4(1206)_330",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "6cd087b62f004ed5a9d9bca39eed6da1": {
+      "title": "RT0603BRD074K7L",
+      "attributes": {
+        "LCSC Part Name": "4.7kΩ ±0.1%",
+        "Supplier Part": "C513565",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "RT0603BRD074K7L",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200415/C513565_14F3B130D24611968EA668DD945D5325.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "48e8b17fb38f49298f3d72f9d36148ac",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Body Length": "-",
+        "Tolerance": "±0.1%",
+        "φD": "-",
+        "Body Height": "-",
+        "Body Width": "-",
+        "Value": "4.7kΩ",
+        "Temperature Coefficient": "±25ppm/℃",
+        "Type": "薄膜电阻",
+        "Power(Watts)": "100mW",
+        "Description": "Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ Body Length:- Tolerance:±0.1% φD:- Body Height:- Body Width:- Resistance:4.7kΩ Temperature Coefficient:±25ppm/℃ Temperature Coefficient:±25ppm/℃ Type:"
+      },
+      "description": "Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ Body Length:- Tolerance:±0.1% φD:- Body Height:- Body Width:- Resistance:4.7kΩ Temperature Coefficient:±25ppm/℃ Temperature Coefficient:±25ppm/℃ Type:",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "bee6a066acbd4320aba0ce9bf45effc2",
+      "version": "1659114155",
+      "custom_tags": ""
+    },
+    "31b44191506749e5ad40bbd059178f7e": {
+      "title": "RT0603DRD0710KL",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±0.5%",
+        "Supplier Part": "C136944",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "RT0603DRD0710KL",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171106/C136944_15099534159771092711.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "74c519de35b74c7eb8e476d0b7957a50",
+        "Designator": "R?",
+        "Footprint": "070265b627e749d899ed6a8f912ff4cb",
+        "3D Model": "e05838f924a04311871efae348108193",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "薄膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±0.5%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±25ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "Type:薄膜电阻 Resistance:10kΩ Tolerance:±0.5% Power(Watts):100mW Temperature Coefficient:±25ppm/℃ Temperature Coefficient:±25ppm/℃ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃"
+      },
+      "description": "Type:薄膜电阻 Resistance:10kΩ Tolerance:±0.5% Power(Watts):100mW Temperature Coefficient:±25ppm/℃ Temperature Coefficient:±25ppm/℃ Overload Voltage (Max):75V Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "d9d3d6855e3945148ec4a9254f438628",
+      "version": "1656793460",
+      "custom_tags": ""
+    },
+    "ec62519a93e146188f549ab719179af1": {
+      "title": "SG-8101CB 50.000000MHz TBGPA",
+      "attributes": {
+        "LCSC Part Name": "50MHz 1.8~3.3V 15ppm -40~+85℃",
+        "Supplier Part": "C390563",
+        "Manufacturer": "EPSON(爱普生)",
+        "Manufacturer Part": "SG-8101CB 50.000000MHz TBGPA",
+        "Supplier Footprint": "SMD-5032_4P",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190725/C390563_913218ED27494FDC4A6FA869441FB55A.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "73898ab1991942ba960dbf2ca9038c9e",
+        "Designator": "X?",
+        "Footprint": "407c7c8f392841388a8422fef7b9fc70",
+        "3D Model": "a5338bdca138410d90603dc56a9a3d5c",
+        "3D Model Title": "OSC-SMD_4P-L5.0-W3.2-BL-1",
+        "3D Model Transform": "196.85,125.984,0,0,0,0,0.002,-0.003,0",
+        "Series": "SG-8101CB",
+        "Value": "50MHz",
+        "Frequency Stability": "±15ppm",
+        "Voltage-Supply": "1.8V~3.3V",
+        "Operating Temperature": "-40℃~+85℃",
+        "Description": "Series:SG-8101CB Frequency:50MHz Frequency Stability:±15ppm Frequency Stability:±15ppm Voltage-Supply:1.8V~3.3V Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃"
+      },
+      "description": "Series:SG-8101CB Frequency:50MHz Frequency Stability:±15ppm Frequency Stability:±15ppm Voltage-Supply:1.8V~3.3V Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "3e76094b6b334e13a6a0d05a206a4d6b",
+      "version": "1654980109",
+      "custom_tags": ""
+    },
+    "4ba53e2a755349f98d7f370803ff4e4a": {
+      "title": "Sheet-Symbol_A4",
+      "attributes": {
+        "Symbol": "84f7524617384b38ac26b2054ec07933",
+        "Company": "EasyEDA.com",
+        "Drawed": "EasyEDA Pro",
+        "Reviewed": "EasyEDA Pro",
+        "Version": "V0.1",
+        "Page Size": "A4",
+        "@Project Name": "Project Name",
+        "@Page Count": "3",
+        "@Update Date": "2021.11.05",
+        "@Create Date": "2021.11.05",
+        "@Schematic Name": "Schematic Name",
+        "Part Number": "JLCPCB-002",
+        "@Page No": "1",
+        "@Page Name": "P1",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "5350f3eb55bb4053a33f1326ce27e859",
+      "version": "1649580843",
+      "custom_tags": ""
+    },
+    "3f1836251baa4ce6b3c5583840a0791a": {
+      "title": "SparkFun-Capacitors_10NF_-0603-50V-10%",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "244ee1a02a664f6aa49330a4a80f3af9",
+        "Name": "SparkFun-Capacitors_10NF_-0603-50V-10%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "871bd5297627436ebceff6c0e269d9e4": {
+      "title": "SparkFun-Capacitors_10NF_-0603-50V-10%_0603",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "244ee1a02a664f6aa49330a4a80f3af9",
+        "Name": "SparkFun-Capacitors_10NF_-0603-50V-10%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "70f41427b194444b967931630a598190": {
+      "title": "SparkFun-Capacitors_22PF_-0603-50V-5%",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "9d12efc54e9747f3a3cc00aba102256c",
+        "Name": "SparkFun-Capacitors_22PF_-0603-50V-5%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "786f8eb965d34ce39e04185172bd2a01": {
+      "title": "SparkFun-Capacitors_47UF-POLAR_-EIA3528-10V-10%",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "e791e1bfb32d43fdbd1894e2014482d2",
+        "Origin Footprint": "EIA3528",
+        "Symbol": "aba144abecea4d27877ecf67b10caf1f",
+        "Name": "SparkFun-Capacitors_47UF-POLAR_-EIA3528-10V-10%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "b58432700713465d8dea322c0eac4a67": {
+      "title": "SparkFun-PowerSymbols_GND__1",
+      "attributes": {
+        "Symbol": "f9a09b09ec044555bb683afdfae3ebe9",
+        "Footprint": "",
+        "Name": "SparkFun-PowerSymbols_GND__1"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "9f907da070bd4c889203d52a036e22af": {
+      "title": "SparkFun-Resistors_10OHM_-0603-1/10W-1%",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "db0b823c608b47c69acb527aa8867a06",
+        "Name": "SparkFun-Resistors_10OHM_-0603-1/10W-1%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "80b66f059bfa486f9bda24e489370283": {
+      "title": "SparkFun-Resistors_10OHM_-0603-1/10W-5%",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "f56b72d394314b38af70d22af1fbc74a",
+        "Name": "SparkFun-Resistors_10OHM_-0603-1/10W-5%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "6dcba562b93d43e4b9d2b7ae947f3496": {
+      "title": "SparkFun-Resistors_1KOHM_-0603-1/10W-1%",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "cd336990828644b998b6c5591fc988a9",
+        "Name": "SparkFun-Resistors_1KOHM_-0603-1/10W-1%",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "7edd3eb8c0d34980b1345f3de87da38b": {
+      "title": "SparkFun-Resistors_RESISTOR_0603",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "6a20256c86614607b2676af6fa40860f",
+        "Origin Footprint": "0603",
+        "Symbol": "1b8a91e188e345eab189685f8b877f06",
+        "Name": "SparkFun-Resistors_RESISTOR_0603",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "cc40e1d205764553be457a12d559b905": {
+      "title": "SS25000016",
+      "attributes": {
+        "LCSC Part Name": "25MHz ±25ppm 3.3V",
+        "Supplier Part": "C280059",
+        "Manufacturer": "ECEC(东晶)",
+        "Manufacturer Part": "SS25000016",
+        "Supplier Footprint": "SMD5032-4P",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190117/C280059_CAE4CEBF233AADA2D0BFBEC0A1657F72.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "0abbf7c402994ae1a056440a64d8ea07",
+        "Footprint": "cba3272128734980a1b4a1cb03861414",
+        "3D Model": "ec97cfd2a07840d2af6d13817a8d7f17",
+        "3D Model Title": "SMD_5032-4P_L5.0-W3.2-H1.1-P2.54",
+        "3D Model Transform": "196.9,126,0,0,0,0,0,0,0",
+        "Value": "25MHz",
+        "Frequency Stability": "±25ppm",
+        "Supply Voltage": "3.3V",
+        "Supply Current (Max)": "20mA",
+        "Operating Temperature": "-20℃~+70℃",
+        "Description": "频率:25MHz;频率稳定度:±25ppm;工作电压:3.3V;供电电流:20mA;工作温度:-20℃~+70℃;"
+      },
+      "description": "频率:25MHz;频率稳定度:±25ppm;工作电压:3.3V;供电电流:20mA;工作温度:-20℃~+70℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "d4149bca2a4f4a3cade2ce2853b1bb4c": {
+      "title": "SS34SMC",
+      "attributes": {
+        "LCSC Part Name": "40V 3A 550mV@3A",
+        "Supplier Part": "C511861",
+        "Manufacturer": "BORN伯恩半导体",
+        "Manufacturer Part": "SS34SMC",
+        "Supplier Footprint": "SMC",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200413/C511858_B8AB7B4098E95274CA6D468D0C377E73.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "9d707d87a1984692a58b8499aab592f9",
+        "Footprint": "105ea6aca01c424cb93196202f0dbdd1",
+        "3D Model": "3f71a8d11b614c0bba60143e95f5b390",
+        "3D Model Title": "SMC_L7.1-W6.2-LS8.1-RD",
+        "3D Model Transform": "315,236.2,0,0,0,0,0,0,0",
+        "Reverse Voltage (Vr)": "40V",
+        "Average Rectified Current (Io)": "3A",
+        "Forward Voltage (Vf@If)": "550mV@3A",
+        "Description": "直流反向耐压(Vr):40V;平均整流电流(Io):3A;正向压降(Vf):550mV@3A;"
+      },
+      "description": "直流反向耐压(Vr):40V;平均整流电流(Io):3A;正向压降(Vf):550mV@3A;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "a7738a1f295d4c0d832cc6da3ea8e326": {
+      "title": "T529P106M010AAE200",
+      "attributes": {
+        "LCSC Part Name": "10uF ±20% 10V",
+        "Supplier Part": "C696821",
+        "Manufacturer": "KEMET(基美)",
+        "Manufacturer Part": "T529P106M010AAE200",
+        "Supplier Footprint": "0805",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200618/C561875_0A5592AD2351515E8EDE474294F0F075.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "310ee27a030f40ccb23357e0b868bbae",
+        "Footprint": "010e6a0b084e45b1b2ca21533901b4be",
+        "3D Model": "1f26856de1634853a779dc49a005d0a1",
+        "3D Model Title": "CAP-SMD_L2.0-W1.3-FD",
+        "3D Model Transform": "78.74,49.2125,0,0,0,0,0,-0.551,0",
+        "Value": "10uF",
+        "Tolerance": "±20%",
+        "Rated Voltage": "10V",
+        "Leakage Current(DCL)": "-",
+        "Ripple Current": "-",
+        "Equivalent Series Resistance(ESR)": "-",
+        "Operating Temperature": "-",
+        "Description": "容值:10uF;精度:±20%;额定电压:10V;漏电流:-;纹波电流:-;等效串联电阻:-;工作温度:-;"
+      },
+      "description": "容值:10uF;精度:±20%;额定电压:10V;漏电流:-;纹波电流:-;等效串联电阻:-;工作温度:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "473d9a28ed1242dbb65954b089f5c3f3": {
+      "title": "TAJR106M010RNJ_TAJR106M010RNJ_",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "7dd7965383df49a7a5471233aaa7742d",
+        "Origin Footprint": "CAPPM2014X120N",
+        "Symbol": "8b66b74c776b4c8c99e1b30a0f3f70eb",
+        "Name": "TAJR106M010RNJ_TAJR106M010RNJ_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "7f4e419dc48d4d7fb4451e29c9e71eda": {
+      "title": "TAJR106M010RNJ_TAJR106M010RNJ__CAPPM2014X120N",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "7dd7965383df49a7a5471233aaa7742d",
+        "Origin Footprint": "CAPPM2014X120N",
+        "Symbol": "8b66b74c776b4c8c99e1b30a0f3f70eb",
+        "Name": "TAJR106M010RNJ_TAJR106M010RNJ_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "87ef22d3282f499a98ecf2153b7fe526": {
+      "title": "TCC0603X7R103M500CT",
+      "attributes": {
+        "LCSC Part Name": "10nF ±20% 50V",
+        "Supplier Part": "C376807",
+        "Manufacturer": "CCTC(三环)",
+        "Manufacturer Part": "TCC0603X7R103M500CT",
+        "Supplier Footprint": "0603",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190327/C376807_2B834D63EB9077293C46475FB282A559.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d46b0609564042d0b8f34b62289944dc",
+        "Footprint": "14a96cf1902e4b8bb371729d4387a700",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10nF",
+        "Tolerance": "±20%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "X7R",
+        "Description": "容值:10nF;精度:±20%;额定电压:50V;温度系数:X7R;"
+      },
+      "description": "容值:10nF;精度:±20%;额定电压:50V;温度系数:X7R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "3384d355f85e48d184e74976d019262f": {
+      "title": "TCC0603X7R473K500CT",
+      "attributes": {
+        "LCSC Part Name": "47nF ±10% 50V",
+        "Supplier Part": "C282684",
+        "Manufacturer": "CCTC(三环)",
+        "Manufacturer Part": "TCC0603X7R473K500CT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180917/C282684_A8E3A8225ACE380CF0686C9270685364.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "124bd41e294344a9b95040d64ca1f448",
+        "Designator": "C?",
+        "Footprint": "fde3845907c5461288ce7fb02b8e6930",
+        "3D Model": "624118aa3cc7497086c383c2d72e0852",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "47nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "X7R",
+        "Description": "Capacitance:47nF Tolerance:±10% Tolerance:±10% Voltage Rated:50V Temperature Coefficient:X7R"
+      },
+      "description": "Capacitance:47nF Tolerance:±10% Tolerance:±10% Voltage Rated:50V Temperature Coefficient:X7R",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "4c0d950251334cd099a90362210d1c61",
+      "version": "1659041015",
+      "custom_tags": ""
+    },
+    "2f7bcc87d3b34637979a4cae498ed465": {
+      "title": "testpad_TP_TP09R",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "3be23b78bafb48b79762b101f99a7038",
+        "Origin Footprint": "TP09R",
+        "Symbol": "7af6d888bc7b462bb43a4bd0898bbacf",
+        "Name": "testpad_TP_TP09R",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "4ff1429e372a48359c2a7eebd14c87b3": {
+      "title": "testpad_TP_TP09R_TP09R",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "3be23b78bafb48b79762b101f99a7038",
+        "Origin Footprint": "TP09R",
+        "Symbol": "7af6d888bc7b462bb43a4bd0898bbacf",
+        "Name": "testpad_TP_TP09R",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "7654414a7c6b435a9685fe52b3d207c0": {
+      "title": "TR0603B10K0P0525Z",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±0.1% 100mW",
+        "Supplier Part": "C188363",
+        "Manufacturer": "EVER OHMS(天二科技)",
+        "Manufacturer Part": "TR0603B10K0P0525Z",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190415/C188363_433BF05B6FB8F7A0F5F35A3E4390C55A.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "597bf18b2d2148b3bba8277dc159ae19",
+        "Footprint": "0f74940c9e1c43f78cde9e0b1ffaa834",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "63,31.5,0,0,0,0,0,0,0",
+        "Type": "薄膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±0.1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±25ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Description": "电阻类型:薄膜电阻;阻值:10kΩ;精度:±0.1%;功率:100mW;温度系数:±25ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:薄膜电阻;阻值:10kΩ;精度:±0.1%;功率:100mW;温度系数:±25ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "cc527b51d3ef453d82e00d6028791065": {
+      "title": "wirepad_SMD200_",
+      "attributes": {
+        "Designator": "",
+        "Footprint": "1e7c91bf6a6a42ccb99e815ea9f3f26c",
+        "Origin Footprint": "SMD200-200,08",
+        "Symbol": "df8acdcda7d54fd68969b3b423e8cb2d",
+        "Name": "wirepad_SMD200_",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "",
+      "version": "",
+      "custom_tags": ""
+    },
+    "2aff56f311314002a99f18a4ea9e51a2": {
+      "title": "X4612WV-08I-C40D28",
+      "attributes": {
+        "LCSC Part Name": "2mm 1x8P",
+        "Supplier Part": "C2883061",
+        "Manufacturer": "XKB Connectivity(中国星坤)",
+        "Manufacturer Part": "X4612WV-08I-C40D28",
+        "Supplier Footprint": "插件,P=2mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211011/76B3828C74D07BA5459D90ABD5041910.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "b1577ff11c48402bb3621d06a3e9fd54",
+        "Designator": "U?",
+        "Footprint": "cb0f773ed6974a7483cb9f8bb87036cf",
+        "3D Model": "25e89016f6a3413c9ffffde76fb9ef67",
+        "3D Model Title": "HDR-TH_8P-P2.00-F-LI-1X8P",
+        "3D Model Transform": "653.542,98.425,0,0,0,0,0,0,-106.299",
+        "Pitch": "2mm",
+        "Number of Pins": "8",
+        "Number of Rows": "1",
+        "Pin Structure": "1x8P",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "方针",
+        "Current Rating (Max)": "3A",
+        "Voltage Rating (Max)": "250V",
+        "Length of Mating Pin": "4mm",
+        "Insulation Height": "-",
+        "Length of End Connection Pin": "2.8mm",
+        "Contact Material": "黄铜",
+        "Contact Plating": "金",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Welding Temperature (Max)": "260℃",
+        "Description": "Pitch:2mm Number of Pins:8 Number of Rows:1 Pin Structure:1x8P Row Spacing:- Mounting Type:直插 Circluar Pins/Square Pins:方针 Current Rating (Max):3A Voltage Rating (Max):250V Length of Mating Pin:4mm Insulation Height:- Length of End Connection Pin:2.8mm Co"
+      },
+      "description": "Pitch:2mm Number of Pins:8 Number of Rows:1 Pin Structure:1x8P Row Spacing:- Mounting Type:直插 Circluar Pins/Square Pins:方针 Current Rating (Max):3A Voltage Rating (Max):250V Length of Mating Pin:4mm Insulation Height:- Length of End Connection Pin:2.8mm Co",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "cd2caa265035461e87afd0e5c5475c39",
+      "version": "1659041092",
+      "custom_tags": ""
+    },
+    "37603321a30843babecb92904ba4b35b": {
+      "title": "X5511WV-02-C396D43-1220",
+      "attributes": {
+        "LCSC Part Name": "2.54mm 1x2P",
+        "Supplier Part": "C2883389",
+        "Manufacturer": "XKB Connectivity(中国星坤)",
+        "Manufacturer Part": "X5511WV-02-C396D43-1220",
+        "Supplier Footprint": "插件,P=2.54mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211009/7D13F627EAEF227E7F3D2A55C463773D.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "11ec48448dbc4e7d8009302446630147",
+        "Designator": "U?",
+        "Footprint": "5076b4ffe375452684295d11e524d7a0",
+        "3D Model": "b9a02bffb1e248eabf92e8e2aa859dc0",
+        "3D Model Title": "HDR2.54-M-LI-1X2P",
+        "3D Model Transform": "200,100,0,0,0,0,0,0,-118.11",
+        "Pitch": "2.54mm",
+        "Number of Pins": "2",
+        "Number of Rows": "1",
+        "Pin Structure": "1x2P",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "圆针",
+        "Current Rating (Max)": "3A",
+        "Contact Material": "黄铜",
+        "Contact Plating": "金",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Welding Temperature (Max)": "260℃",
+        "Description": "Pitch:2.54mm Number of Pins:2 Number of Rows:1 Pin Structure:1x2P Row Spacing:- Mounting Type:直插 Circluar Pins/Square Pins:圆针 Current Rating (Max):3A Contact Material:黄铜 Contact Plating:金 Operating Temperature Range:-40℃~+105℃ Operating Temperature Range:"
+      },
+      "description": "Pitch:2.54mm Number of Pins:2 Number of Rows:1 Pin Structure:1x2P Row Spacing:- Mounting Type:直插 Circluar Pins/Square Pins:圆针 Current Rating (Max):3A Contact Material:黄铜 Contact Plating:金 Operating Temperature Range:-40℃~+105℃ Operating Temperature Range:",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "24d2675e09b94a4f87f19254c6163a43",
+      "version": "1659041092",
+      "custom_tags": ""
+    },
+    "0f6f4264584c4e3faf4510db7422a778": {
+      "title": "X5511WV-06-C35D35-1000",
+      "attributes": {
+        "LCSC Part Name": "2.54mm 1x6P",
+        "Supplier Part": "C2883432",
+        "Manufacturer": "XKB Connectivity(中国星坤)",
+        "Manufacturer Part": "X5511WV-06-C35D35-1000",
+        "Supplier Footprint": "插件,P=2.54mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211009/8060BF00AD1C5715F3AD221F4D0ED870.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e5a460215df0418389e229159699200b",
+        "Designator": "U?",
+        "Footprint": "3df9ca6f5c074ad6989f5f8383415b23",
+        "3D Model": "6ebb80f5681945ec9fb368fbc217c3f7",
+        "3D Model Title": "HDR-TH_6P-P2.54-M-LI-1X6P",
+        "3D Model Transform": "590.1563,98.425,0,0,0,0,0,0,-118.11",
+        "Pitch": "2.54mm",
+        "Number of Pins": "6",
+        "Number of Rows": "1",
+        "Pin Structure": "1x6P",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "圆针",
+        "Current Rating (Max)": "3A",
+        "Length of Mating Pin": "3.5mm",
+        "Insulation Height": "3mm",
+        "Length of End Connection Pin": "3.5mm",
+        "Contact Material": "黄铜",
+        "Contact Plating": "金",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Welding Temperature (Max)": "260℃",
+        "Description": "Pitch:2.54mm Number of Pins:6 Number of Rows:1 Pin Structure:1x6P Row Spacing:- Mounting Type:直插 Circluar Pins/Square Pins:圆针 Current Rating (Max):3A Length of Mating Pin:3.5mm Insulation Height:3mm Length of End Connection Pin:3.5mm Contact Material:黄铜 C"
+      },
+      "description": "Pitch:2.54mm Number of Pins:6 Number of Rows:1 Pin Structure:1x6P Row Spacing:- Mounting Type:直插 Circluar Pins/Square Pins:圆针 Current Rating (Max):3A Length of Mating Pin:3.5mm Insulation Height:3mm Length of End Connection Pin:3.5mm Contact Material:黄铜 C",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "ba0ce741b98f436fbed4d83574763816",
+      "version": "1659041092",
+      "custom_tags": ""
+    }
+  },
+  "boards": {
+    "Board1": {
+      "schematic": "340b2994746c4043bbf9027df7f991bd",
+      "pcb": "ee5fd5e1742b4e0eb1c01f364e9f9500"
+    }
+  },
+  "config": {
+    "title": "EmotionBand-TB_v2",
+    "cbbProject": false,
+    "defaultSheet": "",
+    "editorVersion": "1.9.26"
+  }
+}
